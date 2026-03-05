@@ -1,0 +1,338 @@
+/* Страница аккаунта на ВЕСЬ экран */
+.account-page {
+  background-image: url('/images/image-header.png');
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  min-height: 100vh;
+  padding: 40px 20px 80px;
+  position: relative;
+}
+
+.account-page::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.account-container {
+  position: relative;
+  z-index: 2;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.account-card {
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  padding: 40px;
+  margin-bottom: 30px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  width: 100%;
+}
+
+.account-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.account-info {
+  flex: 1;
+  min-width: 300px;
+}
+
+.account-dl {
+  margin: 0;
+}
+
+.dl-row {
+  display: flex;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.dl-row dt {
+  font-weight: 600;
+  color: #333333;
+  min-width: 180px;
+  margin-bottom: 5px;
+}
+
+.dl-row dd {
+  color: #666666;
+  margin: 0;
+  flex: 1;
+}
+
+/* Аватар с картинкой */
+.account-avatar-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.account-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid #ffffff;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  background-color: #f0f0f0;
+  display: block;
+}
+
+.account-buttons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.btn-edit {
+  background-color: #4CAF50;
+  color: #ffffff;
+  border: none;
+  padding: 12px 35px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 15px;
+  transition: all 0.3s;
+}
+
+.btn-edit:hover {
+  background-color: #45a049;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+}
+
+.btn-save {
+  background-color: #2196F3;
+  color: #ffffff;
+  border: none;
+  padding: 12px 35px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 15px;
+  transition: all 0.3s;
+}
+
+.btn-save:hover {
+  background-color: #0b7dda;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.3);
+}
+
+/* Список автомобилей */
+.car-list {
+  margin-top: 30px;
+}
+
+.card-title {
+  margin-top: 0;
+  margin-bottom: 25px;
+  color: #333333;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.car-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 25px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  margin-bottom: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.car-name {
+  font-weight: 600;
+  color: #333333;
+  font-size: 16px;
+}
+
+.car-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-small {
+  padding: 8px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  transition: all 0.3s;
+}
+
+.btn-small-edit {
+  background-color: #4CAF50;
+  color: #ffffff;
+}
+
+.btn-small-edit:hover {
+  background-color: #45a049;
+  transform: translateY(-1px);
+}
+
+.btn-small-delete {
+  background-color: #f44336;
+  color: #ffffff;
+}
+
+.btn-small-delete:hover {
+  background-color: #da190b;
+  transform: translateY(-1px);
+}
+
+/* Диагностические карты - ССЫЛКИ */
+.diagnostics-section {
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  padding: 35px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  margin-bottom: 30px;
+}
+
+.diagnostics-title {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #333333;
+  padding: 12px;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+}
+
+/* Ссылка-карточка */
+.diag-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 25px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 8px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.diag-link:hover {
+  background-color: rgba(33, 150, 243, 0.15);
+  border-color: rgba(33, 150, 243, 0.3);
+  transform: translateX(5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.diag-link:active {
+  transform: translateX(2px);
+}
+
+.diag-date {
+  color: #666666;
+  font-weight: 500;
+  flex-shrink: 0;
+}
+
+.diag-car {
+  color: #333333;
+  font-weight: 600;
+  flex: 1;
+  margin: 0 20px;
+}
+
+.diag-arrow {
+  color: #2196F3;
+  font-size: 18px;
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 0.2s;
+  flex-shrink: 0;
+}
+
+.diag-link:hover .diag-arrow {
+  opacity: 1;
+}
+
+/* Нижний текст */
+.footer-text {
+  text-align: center;
+  color: #ffffff;
+  margin-top: 60px;
+  font-size: 20px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: 500;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+  .account-card {
+    padding: 25px;
+  }
+  
+  .account-header {
+    flex-direction: column;
+  }
+  
+  .account-info {
+    min-width: 100%;
+  }
+  
+  .account-avatar {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .dl-row {
+    flex-direction: column;
+  }
+  
+  .dl-row dt {
+    min-width: 100%;
+  }
+  
+  .car-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .diag-link {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 12px 20px;
+  }
+  
+  .diag-car {
+    margin: 0;
+  }
+  
+  .diag-arrow {
+    align-self: flex-end;
+    opacity: 1;
+  }
+}

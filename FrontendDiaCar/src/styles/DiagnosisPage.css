@@ -1,0 +1,433 @@
+/* Фон на всю страницу */
+.diagnosis-page {
+  background-image: url('/images/image-header.png');
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+.diagnosis-page::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+/* Контейнер */
+.diagnosis-container {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  gap: 30px;
+  padding: 40px;
+  max-width: 1400px;
+  margin: 0 auto;
+  min-height: calc(100vh - 200px);
+  align-items: stretch;
+}
+
+/* Карточки - полупрозрачные */
+.car-info-card,
+.chat-card {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Левая колонка - Информация об авто */
+.car-info-card {
+  flex: 1;
+  min-width: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.car-info-header {
+  margin-bottom: 25px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.car-info-header h2 {
+  margin: 0;
+  color: #333;
+  font-size: 24px;
+  font-weight: 700;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 8px 16px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+/* Прямоугольная рамка с закруглёнными углами - ИСПРАВЛЕНО */
+.car-image-wrapper {
+  width: 100%;
+  max-width: 300px;
+  height: 200px;
+  margin: 0 auto 25px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.car-image-rounded {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+  display: block;
+}
+
+/* Характеристики автомобиля */
+.car-specs {
+  margin-bottom: 25px;
+}
+
+.spec-item {
+  display: flex;
+  margin-bottom: 10px;
+  padding: 10px 15px;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.spec-label {
+  font-weight: 600;
+  color: #333;
+  min-width: 140px;
+}
+
+.spec-value {
+  color: #555;
+  font-weight: 500;
+}
+
+/* Описание автомобиля */
+.car-description {
+  flex: 1;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  margin-bottom: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.car-description p {
+  margin-bottom: 15px;
+  color: #444;
+  line-height: 1.6;
+  font-size: 14px;
+}
+
+.car-description p:last-child {
+  margin-bottom: 0;
+}
+
+/* Кнопки */
+.car-buttons {
+  display: flex;
+  gap: 15px;
+  margin-top: auto;
+}
+
+.btn-download,
+.btn-finish {
+  flex: 1;
+  padding: 16px 30px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.btn-download {
+  background-color: #4CAF50;
+  color: #ffffff;
+}
+
+.btn-download:hover {
+  background-color: #45a049;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(76, 175, 80, 0.4);
+}
+
+.btn-finish {
+  background-color: #f44336;
+  color: #ffffff;
+}
+
+.btn-finish:hover {
+  background-color: #da190b;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(244, 67, 54, 0.4);
+}
+
+/* Правая колонка - Чат - ИСПРАВЛЕНО */
+.chat-card {
+  flex: 1.5;
+  min-width: 500px;
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 180px);
+}
+
+.chat-messages {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 30px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  min-height: 550px;
+  max-height: calc(100vh - 380px);
+}
+
+.message {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.user-message {
+  background-color: rgba(33, 150, 243, 0.1);
+  border-left: 4px solid #2196F3;
+}
+
+.ai-message {
+  background-color: rgba(76, 175, 80, 0.1);
+  border-left: 4px solid #4CAF50;
+}
+
+.message p {
+  margin: 0;
+  color: #333;
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+.message ul {
+  margin: 15px 0;
+  padding-left: 25px;
+  color: #444;
+}
+
+.message ul li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.message strong {
+  color: #333;
+}
+
+/* Форма ввода сообщения - ИСПРАВЛЕНО */
+.chat-input-form {
+  display: flex;
+  gap: 10px;
+  margin-top: 0;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  border-top: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.chat-input {
+  flex: 1;
+  padding: 16px 20px;
+  font-size: 16px;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.95);
+  transition: all 0.3s ease;
+}
+
+.chat-input:focus {
+  outline: none;
+  border-color: #2196F3;
+  box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+}
+
+.chat-input::placeholder {
+  color: #999;
+}
+
+.btn-send {
+  padding: 16px 25px;
+  font-size: 20px;
+  background-color: #2196F3;
+  color: #ffffff;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-send:hover {
+  background-color: #0b7dda;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.4);
+}
+
+/* Футер */
+.diagnosis-footer {
+  position: relative;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 30px 40px;
+  margin-top: 40px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.footer-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-content p {
+  margin: 0;
+  color: #333;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.social-icons {
+  display: flex;
+  gap: 15px;
+}
+
+.social-icon {
+  font-size: 24px;
+  color: #666;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.social-icon:hover {
+  color: #333;
+}
+
+/* Кастомный скроллбар для чата */
+.chat-messages::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chat-messages::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.chat-messages::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+.chat-messages::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/* Адаптивность для мобильных */
+@media (max-width: 1024px) {
+  .diagnosis-container {
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .car-info-card,
+  .chat-card {
+    min-width: 100%;
+  }
+  
+  .chat-card {
+    height: auto;
+  }
+  
+  .chat-messages {
+    min-height: 350px;
+    max-height: 450px;
+  }
+  
+  .car-image-wrapper {
+    max-width: 250px;
+    height: 170px;
+  }
+}
+
+@media (max-width: 768px) {
+  .diagnosis-container {
+    padding: 15px;
+    gap: 20px;
+  }
+  
+  .car-info-card,
+  .chat-card {
+    padding: 20px;
+  }
+  
+  .spec-item {
+    flex-direction: column;
+  }
+  
+  .spec-label {
+    min-width: 100%;
+    margin-bottom: 5px;
+  }
+  
+  .car-buttons {
+    flex-direction: column;
+  }
+  
+  .btn-download,
+  .btn-finish {
+    width: 100%;
+  }
+  
+  .chat-input-form {
+    flex-direction: column;
+  }
+  
+  .btn-send {
+    width: 100%;
+  }
+  
+  .footer-content {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+  
+  .chat-messages {
+    min-height: 300px;
+    max-height: 400px;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+  }
+  
+  .chat-input-form {
+    padding-top: 20px;
+  }
+}

@@ -1,0 +1,174 @@
+/* Фоновое изображение на всю страницу */
+body {
+  background-image: url('/images/image-header.png');
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Шапка поверх фона */
+.image-header {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 40px 0 40px;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+}
+
+.image-header h1 {
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  margin: 0;
+}
+
+/* Контейнер */
+.container {
+  width: 100%;
+  max-width: 100%;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
+/* Форма регистрации - полупрозрачная */
+.auth-form {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 40px;
+  border-radius: 8px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.auth-form .form-group {
+  margin-bottom: 25px;
+}
+
+.auth-form label {
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.auth-form .form-control {
+  width: 100%;
+  max-width: 100%;
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.auth-form .form-control:focus {
+  border-color: #008cba;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 140, 186, 0.1);
+}
+
+/* Кнопка - отцентрована */
+.auth-form .btn-block {
+  width: 100%;
+  max-width: 300px;
+  margin: 20px auto 0;
+  display: block;
+  padding: 14px 40px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: #008cba;
+  border-color: #008cba;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.auth-form .btn-block:hover {
+  background-color: #00526e;
+  border-color: #00526e;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 140, 186, 0.3);
+}
+
+.auth-form .btn-block:active {
+  transform: translateY(0);
+}
+
+/* Ссылки под формой - отцентрованы */
+.auth-links {
+  margin-top: 25px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.auth-links a {
+  color: #008cba;
+  text-decoration: none;
+  display: inline-block;
+  transition: color 0.3s;
+}
+
+.auth-links a:hover {
+  color: #00526e;
+  text-decoration: underline;
+}
+
+/* Нижний текст - КРАСИВЫЙ БЕЗ ФОНА */
+.bottom-text {
+  margin: 60px auto 40px;
+  color: #ffffff;
+  text-align: center;
+  font-style: italic;
+  font-size: 18px;
+  font-weight: 500;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  letter-spacing: 1px;
+  padding: 0;
+  background: transparent;
+  max-width: 600px;
+}
+
+/* Адаптивность для мобильных */
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
+  
+  .image-header {
+    padding: 40px 0 30px;
+  }
+  
+  .container {
+    padding: 0 20px;
+  }
+  
+  .auth-form {
+    padding: 30px 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    max-width: 100%;
+  }
+  
+  .auth-form .form-control {
+    padding: 10px 12px;
+  }
+  
+  .auth-form .btn-block {
+    width: 100%;
+    max-width: 100%;
+    padding: 12px;
+    font-size: 15px;
+  }
+  
+  .bottom-text {
+    font-size: 16px;
+    margin: 40px auto 30px;
+  }
+}

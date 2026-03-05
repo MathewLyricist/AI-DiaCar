@@ -1,0 +1,125 @@
+/* Глобальный сброс - НА ВСЮ ШИРИНУ ЭКРАНА */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  width: 100%;
+  min-width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #213547;
+  background-color: #ffffff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+  min-width: 100vw;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+/* Ссылки */
+a {
+  font-weight: 500;
+  color: #008cba;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00526e;
+}
+
+/* Заголовки */
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: 2.5em;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: 2em;
+  line-height: 1.3;
+}
+
+/* Кнопки */
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  transition: border-color 0.25s, background-color 0.25s;
+}
+
+button:hover {
+  border-color: #008cba;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+/* Убираем ВСЕ ограничения ширины от Bootstrap */
+.container,
+.container-fluid {
+  width: 100%;
+  max-width: 100% !important;
+  padding: 0 40px;
+  margin: 0 !important;
+}
+
+/* Все секции на 100% ширины */
+section, header, footer, main, nav {
+  width: 100%;
+  max-width: 100% !important;
+  margin: 0;
+  padding: 0;
+}
+
+/* Адаптивность для мобильных */
+@media (max-width: 768px) {
+  .container,
+  .container-fluid {
+    padding: 0 20px;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    font-size: 2em;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+}

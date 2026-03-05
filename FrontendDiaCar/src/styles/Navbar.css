@@ -1,0 +1,125 @@
+.navbar.white-navbar {
+  background-color: #ffffff;
+  border: none;
+  border-bottom: 1px solid #e7e7e7;
+  margin-bottom: 0;
+  width: 100%;
+  min-height: 70px;
+}
+
+.navbar-container {
+  width: 100%;
+  padding: 0 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+}
+
+.navbar-header {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 22px;
+  font-weight: 700;
+  color: #000000 !important;
+  padding: 0;
+  margin-right: 60px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.gear-icon {
+  font-size: 28px;
+  margin-right: 10px;
+}
+
+.navbar-menu {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.navbar-nav {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 0;
+}
+
+.navbar-nav li a {
+  display: block;
+  padding: 25px 30px;
+  color: #666666 !important;
+  text-decoration: none;
+  font-size: 15px;
+  transition: color 0.3s;
+  white-space: nowrap;
+}
+
+.navbar-nav li a:hover {
+  color: #000000 !important;
+}
+
+.navbar-toggle {
+  display: none;
+  background: transparent;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background-color: #888;
+  margin: 4px 0;
+}
+
+/* Адаптивность - ЗАКРЫТО ПРАВИЛЬНО */
+@media (max-width: 992px) {
+  .navbar-toggle {
+    display: block;
+  }
+  
+  .navbar-menu {
+    display: none;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    right: 0;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e7e7e7;
+    padding: 20px 40px;
+    flex-direction: column;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  .navbar-menu-active {
+    display: flex;
+  }
+  
+  .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .navbar-nav li a {
+    padding: 12px 0;
+  }
+  
+  .navbar-container {
+    padding: 0 20px;
+  }
+  
+  .navbar-brand {
+    margin-right: 0;
+  }
+}
