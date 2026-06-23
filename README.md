@@ -38,7 +38,7 @@ ML-сервис:	Python 3.10+, FastAPI, Sentence-Transformers, Chroma, pdfplumbe
 Инфраструктура:	Docker, Docker Compose (планируется), REST API
 LLM:	OpenRouter API
 # Запуск приложения
-- Требования: Docker и Docker Compose, Java 17, Maven, Node.js 18+, Python 3.10+, PostgreSQL 15+
+Требования: Docker и Docker Compose, Java 17, Maven, Node.js 18+, Python 3.10+, PostgreSQL 15+
 После запуска доступ осуществляется по следующим ссылкам:
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8080
