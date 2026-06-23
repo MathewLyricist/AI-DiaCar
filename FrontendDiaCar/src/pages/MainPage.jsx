@@ -7,24 +7,21 @@ function MainPage() {
   return (
     <>
       <Navbar />
-      
-      {/* Герой-секция */}
       <section className="hero-section">
         <div className="hero-content">
           <h1>Твой автомобиль приболел?</h1>
           <h2>Я выпишу тебе лекарство!</h2>
-          <Link to="/diagnosis" className="btn-hero">
+          <Link to="/diagnosis-setup" className="btn-hero">
             НАЧАТЬ ДИАГНОСТИКУ
           </Link>
         </div>
       </section>
 
-      {/* Футер */}
       <footer className="main-footer">
         <div className="footer-container">
           <div className="footer-col">
             <h3>AI DiaCar</h3>
-            <p>Разработано на технологиях OpenAI.</p>
+            <p>Разработано для ОмГТУ.</p>
           </div>
           
           <div className="footer-col">

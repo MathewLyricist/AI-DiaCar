@@ -1,0 +1,40 @@
+{
+  "existing": {
+    "total_files": 3574,
+    "unique_cars": 232,
+    "general_manuals": 15
+  },
+  "missing": {
+    "popular_models": 1316,
+    "high_priority": 247,
+    "medium_priority": 984,
+    "low_priority": 85
+  },
+  "by_brand": {
+    "Volkswagen": 117,
+    "Ford": 9,
+    "Caterpillar": 17,
+    "Honda": 19,
+    "Acura": 1,
+    "BMW": 7,
+    "Chevrolet": 7,
+    "Разное": 22,
+    "Suzuki": 1,
+    "Subaru": 1,
+    "Audi": 8,
+    "ГАЗ": 2,
+    "БЕЛАЗ": 1,
+    "Toyota/Lexus": 1,
+    "Nissan": 1,
+    "Opel": 2,
+    "Daewoo": 1,
+    "ВАЗ": 5,
+    "КРАЗ": 1,
+    "Chrysler": 3,
+    "КАМАЗ": 1,
+    "Mitsubishi": 3,
+    "Mazda": 1,
+    "MAN": 1
+  },
+  "generated": "2026-03-19T00:20:40.845022"
+}

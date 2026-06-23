@@ -1,0 +1,81 @@
+.advice-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 25px;
+}
+
+.advice-card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: 0.2s;
+  position: relative;
+}
+
+.advice-card:hover {
+  transform: translateY(-5px);
+}
+
+.advice-image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.advice-content {
+  padding: 20px;
+}
+
+.advice-badges {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.badge {
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  color: white;
+}
+
+.badge.category {
+  background-color: #6c757d;
+}
+
+.advice-content h3 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+.advice-content p {
+  color: #555;
+  line-height: 1.4;
+}
+.read-more-btn {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 8px 0 4px 0;
+  margin-top: 8px;
+  transition: 0.2s;
+  display: inline-block;
+}
+
+.read-more-btn:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.advice-text {
+  line-height: 1.5;
+  color: #333;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-break: break-word;
+}

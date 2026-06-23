@@ -1,0 +1,40 @@
+# FastAPI
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+
+# Pydantic
+pydantic==2.8.2
+pydantic-settings==2.2.1
+
+# LangChain - СТАБИЛЬНЫЕ ВЕРСИИ для Python 3.12
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-community==0.0.38
+langchain-text-splitters==0.0.2
+langchain-huggingface==0.0.3
+
+# Vector DB
+chromadb==0.5.0
+
+# ML Models
+sentence-transformers==2.7.0
+transformers==4.40.0
+torch==2.2.2
+
+# PDF Processing
+pypdf==4.2.0
+pdfplumber==0.11.0
+pdf2image==1.17.0
+
+# Utils
+python-dotenv==1.0.1
+requests==2.31.0
+
+# LLM Generation
+transformers==4.40.0
+torch==2.2.2
+accelerate==0.27.2
+sentencepiece==0.1.99
+protobuf==3.20.3
+bitsandbytes==0.42.0   # опционально, для 4-bit квантования

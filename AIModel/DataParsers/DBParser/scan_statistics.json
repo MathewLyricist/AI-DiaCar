@@ -1,0 +1,245 @@
+{
+  "total_files": 3574,
+  "unrecognized_files": 0,
+  "by_brand": {
+    "Acura": 1,
+    "Audi": 2,
+    "BMW": 2,
+    "Chevrolet": 5,
+    "Chrysler": 1,
+    "Daewoo": 1,
+    "Ford": 3,
+    "Honda": 11,
+    "MAN": 1,
+    "Mazda": 1,
+    "Mitsubishi": 3,
+    "Nissan": 1,
+    "Opel": 2,
+    "Subaru": 1,
+    "Suzuki": 1,
+    "Toyota/Lexus": 1,
+    "Volkswagen": 34,
+    "БЕЛАЗ": 1,
+    "ВАЗ": 3,
+    "ГАЗ": 1,
+    "КАМАЗ": 1,
+    "КРАЗ": 1,
+    "Разное": 20,
+    "Caterpillar": 16
+  },
+  "by_brand_models": {
+    "Acura": {
+      "Acura": 1
+    },
+    "Audi": {
+      "Audi": 15,
+      "A4": 2
+    },
+    "BMW": {
+      "Bmw": 9,
+      "Obschee": 1
+    },
+    "Chevrolet": {
+      "Chevrolet": 75,
+      "Corvette": 2,
+      "Tahoe": 1,
+      "Niva": 2,
+      "Lanos": 1
+    },
+    "Chrysler": {
+      "Chrysler": 4
+    },
+    "Daewoo": {
+      "Daewoo": 1
+    },
+    "Ford": {
+      "Transit": 2,
+      "Ford": 39,
+      "Explorer": 1
+    },
+    "Honda": {
+      "Honda": 61,
+      "Varadero": 1,
+      "Jazz": 2,
+      "Stream": 1,
+      "Silver": 1,
+      "Crosstour": 1,
+      "Accord": 4,
+      "Civic": 2,
+      "CR-V": 2,
+      "Crossrunner": 1,
+      "Transalp": 1
+    },
+    "MAN": {
+      "Man": 1
+    },
+    "Mazda": {
+      "Mazda": 4
+    },
+    "Mitsubishi": {
+      "Mitsubishi": 5,
+      "Outlander": 1,
+      "Æσñ¼δ": 81
+    },
+    "Nissan": {
+      "Nissan": 7
+    },
+    "Opel": {
+      "Opel": 21,
+      "Astra": 1
+    },
+    "Subaru": {
+      "Subaru": 3
+    },
+    "Suzuki": {
+      "Suzuki": 3
+    },
+    "Toyota/Lexus": {
+      "Toyota": 39
+    },
+    "Volkswagen": {
+      "Volkswagen": 15,
+      "Passat": 353,
+      "Golf": 381,
+      "Vw": 573,
+      "Engines": 25,
+      "Jetta": 895,
+      "Tiguan": 62,
+      "Diagnostics": 1,
+      "Fuel": 11,
+      "Polo": 83,
+      "Transmissions": 9,
+      "Skoda": 7,
+      "Atlas": 22,
+      "General": 2,
+      "Wheels": 2,
+      "Amarok": 30,
+      "Transporter": 11,
+      "Touran": 45,
+      "Beetle": 16,
+      "Chassis": 18,
+      "Electrical": 7,
+      "Climate": 11,
+      "Common": 47,
+      "Body": 14,
+      "Miscellaneous": 6,
+      "Touareg": 189,
+      "Scirocco": 1,
+      "Transmission": 2,
+      "Maintenance": 8,
+      "Brake": 1,
+      "Tdi": 2,
+      "Sharan": 28,
+      "Intake": 2,
+      "Driver": 2
+    },
+    "БЕЛАЗ": {
+      "Белаз": 1
+    },
+    "ВАЗ": {
+      "Ваз": 32,
+      "Kalina": 1,
+      "Lada": 1
+    },
+    "ГАЗ": {
+      "Газ": 23
+    },
+    "КАМАЗ": {
+      "Камаз": 3
+    },
+    "КРАЗ": {
+      "Краз": 1
+    },
+    "Разное": {
+      "Разное": 27,
+      "Иммобилайзеры": 10,
+      "Corner": 1,
+      "Escont": 1,
+      "Add": 1,
+      "Sheriff": 2,
+      "Bpocode": 1,
+      "Kgb": 4,
+      "Jaguar": 14,
+      "Tomahawk": 13,
+      "Mongoose": 57,
+      "Mangoose": 2,
+      "Twage": 6,
+      "Star": 1,
+      "Starline": 1,
+      "Pantera": 25,
+      "Cenmax": 10,
+      "Stalker": 6,
+      "Magic": 2,
+      "Ame": 4
+    },
+    "Caterpillar": {
+      "Ремонт": 16,
+      "Special": 1,
+      "Шатуны": 1,
+      "Распредвалы,": 2,
+      "Подшипники": 1,
+      "Use": 1,
+      "Crankshafts": 1,
+      "Общие": 2,
+      "Cylinder": 1,
+      "Поршни": 4,
+      "Пальцы": 2,
+      "Инструкции": 2,
+      "О": 2,
+      "Overhaul": 1,
+      "Общая": 5,
+      "Tool": 2
+    }
+  },
+  "by_year": {
+    "1938": 1,
+    "1970": 1,
+    "1974": 514,
+    "1979": 1,
+    "1982": 116,
+    "1983": 1,
+    "1984": 214,
+    "1985": 5,
+    "1986": 2,
+    "1987": 1,
+    "1988": 53,
+    "1990": 11,
+    "1991": 98,
+    "1992": 135,
+    "1994": 37,
+    "1995": 31,
+    "1996": 7,
+    "1997": 333,
+    "1998": 9,
+    "1999": 6,
+    "2000": 43,
+    "2001": 2,
+    "2002": 26,
+    "2003": 192,
+    "2004": 88,
+    "2005": 31,
+    "2006": 55,
+    "2007": 2,
+    "2008": 27,
+    "2009": 50,
+    "2010": 22,
+    "2011": 41,
+    "2012": 37,
+    "2013": 62,
+    "2014": 6,
+    "2015": 21,
+    "2016": 91,
+    "2017": 13,
+    "2018": 34,
+    "2019": 17,
+    "2020": 31,
+    "2021": 18,
+    "2022": 18,
+    "2023": 12,
+    "2024": 95,
+    "2108": 1,
+    "2113": 1,
+    "8468": 1
+  },
+  "generated": "2026-03-19T00:07:04.515074"
+}

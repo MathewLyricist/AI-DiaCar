@@ -1,0 +1,5490 @@
+[
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi",
+    "model_code": "list-audi-cars",
+    "url": "https://vwts.ru/list-audi-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-audi-cars.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi 80 B4 1991 - 1995",
+    "model_code": "audi_80_8c",
+    "url": "https://vwts.ru/audi_80_8c.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_8c.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi 80/90 B2 1979 - 1987",
+    "model_code": "audi_80_81",
+    "url": "https://vwts.ru/audi_80_81.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_81.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi 80/90 B3 1987 - 1990",
+    "model_code": "audi_80_8b",
+    "url": "https://vwts.ru/audi_80_8b.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_8b.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A1",
+    "model_code": "audi_a1_8x",
+    "url": "https://vwts.ru/audi_a1_8x.html",
+    "pdf_page_url": "https://vwts.ru/audi_a1_8x.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A2",
+    "model_code": "audi_a2_8z",
+    "url": "https://vwts.ru/audi_a2_8z.html",
+    "pdf_page_url": "https://vwts.ru/audi_a2_8z.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A3 1997 - 2003",
+    "model_code": "audi_a3_8l",
+    "url": "https://vwts.ru/audi_a3_8l.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8l.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A3 2003 - 2012",
+    "model_code": "audi_a3_8p",
+    "url": "https://vwts.ru/audi_a3_8p.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8p.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A3 2013 - 2020",
+    "model_code": "audi_a3_8v",
+    "url": "https://vwts.ru/audi_a3_8v.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8v.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A3 2021 -",
+    "model_code": "audi_a3_8y",
+    "url": "https://vwts.ru/audi_a3_8y.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8y.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A4 (B5) 1995 - 2001",
+    "model_code": "audi_a4_8d",
+    "url": "https://vwts.ru/audi_a4_8d.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8d.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A4 (B7) 2005 - 2008",
+    "model_code": "audi_a4_8e_8h",
+    "url": "https://vwts.ru/audi_a4_8e_8h.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8e_8h.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A4 (B8) 2008 - 2015",
+    "model_code": "audi_a4_8k",
+    "url": "https://vwts.ru/audi_a4_8k.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8k.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A4 (B9) 2016 -",
+    "model_code": "audi_a4_8w",
+    "url": "https://vwts.ru/audi_a4_8w.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8w.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A5 (8T) 2008 - 2016",
+    "model_code": "audi_a5_8t",
+    "url": "https://vwts.ru/audi_a5_8t.html",
+    "pdf_page_url": "https://vwts.ru/audi_a5_8t.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A5 (F5) 2017 -",
+    "model_code": "audi_a5_f5",
+    "url": "https://vwts.ru/audi_a5_f5.html",
+    "pdf_page_url": "https://vwts.ru/audi_a5_f5.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A6 (C4), Audi 100 1991 - 1997",
+    "model_code": "audi_a6_4a",
+    "url": "https://vwts.ru/audi_a6_4a.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4a.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A6 (C5) 1997 - 2005",
+    "model_code": "audi_a6_4b",
+    "url": "https://vwts.ru/audi_a6_4b.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4b.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A6 (C6) 2005 - 2011",
+    "model_code": "audi_a6_4f",
+    "url": "https://vwts.ru/audi_a6_4f.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4f.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A6 (C7) 2011 - 2017",
+    "model_code": "audi_a6_a7_4g",
+    "url": "https://vwts.ru/audi_a6_a7_4g.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_a7_4g.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A6 (C8) 2017 -",
+    "model_code": "audi_a6_4a_a7_4k",
+    "url": "https://vwts.ru/audi_a6_4a_a7_4k.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4a_a7_4k.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A8 (D2) 1994 - 2002",
+    "model_code": "audi_a8_4d",
+    "url": "https://vwts.ru/audi_a8_4d.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4d.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A8 (D3) 2003 - 2010",
+    "model_code": "audi_a8_4e",
+    "url": "https://vwts.ru/audi_a8_4e.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4e.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A8 (D4) 2010 - 2017",
+    "model_code": "audi_a8_4h",
+    "url": "https://vwts.ru/audi_a8_4h.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4h.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi A8 (D5) 2018 -",
+    "model_code": "audi_a8_4n",
+    "url": "https://vwts.ru/audi_a8_4n.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4n.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi e-tron",
+    "model_code": "audi_e-tron",
+    "url": "https://vwts.ru/audi_e-tron.html",
+    "pdf_page_url": "https://vwts.ru/audi_e-tron.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi Q2",
+    "model_code": "audi_q2_ga",
+    "url": "https://vwts.ru/audi_q2_ga.html",
+    "pdf_page_url": "https://vwts.ru/audi_q2_ga.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi Q3 2012 - 2018",
+    "model_code": "audi_q3_8u",
+    "url": "https://vwts.ru/audi_q3_8u.html",
+    "pdf_page_url": "https://vwts.ru/audi_q3_8u.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi Q3 2019 -",
+    "model_code": "audi_q3_f3",
+    "url": "https://vwts.ru/audi_q3_f3.html",
+    "pdf_page_url": "https://vwts.ru/audi_q3_f3.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi Q5 2009 - 2016",
+    "model_code": "audi_q5_8r",
+    "url": "https://vwts.ru/audi_q5_8r.html",
+    "pdf_page_url": "https://vwts.ru/audi_q5_8r.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi Q5 2017 -",
+    "model_code": "audi_q5_fy",
+    "url": "https://vwts.ru/audi_q5_fy.html",
+    "pdf_page_url": "https://vwts.ru/audi_q5_fy.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi Q7 2005 - 2015",
+    "model_code": "audi_q7_4l",
+    "url": "https://vwts.ru/audi_q7_4l.html",
+    "pdf_page_url": "https://vwts.ru/audi_q7_4l.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi Q7 2015 -",
+    "model_code": "audi_q7_4m",
+    "url": "https://vwts.ru/audi_q7_4m.html",
+    "pdf_page_url": "https://vwts.ru/audi_q7_4m.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi Q8",
+    "model_code": "audi_q8_4m",
+    "url": "https://vwts.ru/audi_q8_4m.html",
+    "pdf_page_url": "https://vwts.ru/audi_q8_4m.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi TT 1999 - 2006",
+    "model_code": "audi_tt_8n",
+    "url": "https://vwts.ru/audi_tt_8n.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt_8n.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi TT 2 2007 - 2014",
+    "model_code": "audi_tt_8j",
+    "url": "https://vwts.ru/audi_tt_8j.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt_8j.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Audi TT 3 2015 -",
+    "model_code": "audi_tt3_fv",
+    "url": "https://vwts.ru/audi_tt3_fv.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt3_fv.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "ELSA / ETKA / ETOS",
+    "model_code": "elsa-etka-etos",
+    "url": "https://vwts.ru/elsa-etka-etos.html",
+    "pdf_page_url": "https://vwts.ru/elsa-etka-etos.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Seat",
+    "model_code": "list-seat-cars",
+    "url": "https://vwts.ru/list-seat-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-seat-cars.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Arona",
+    "model_code": "seat_arona_kj",
+    "url": "https://vwts.ru/seat_arona_kj.html",
+    "pdf_page_url": "https://vwts.ru/seat_arona_kj.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Arosa",
+    "model_code": "seat_arosa_6h",
+    "url": "https://vwts.ru/seat_arosa_6h.html",
+    "pdf_page_url": "https://vwts.ru/seat_arosa_6h.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Ateca",
+    "model_code": "seat_ateca_kh7",
+    "url": "https://vwts.ru/seat_ateca_kh7.html",
+    "pdf_page_url": "https://vwts.ru/seat_ateca_kh7.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Ibiza 1 1985 - 1992",
+    "model_code": "seat_ibiza1_021a",
+    "url": "https://vwts.ru/seat_ibiza1_021a.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza1_021a.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Ibiza 2 1993 - 2002",
+    "model_code": "seat_ibiza2_6k",
+    "url": "https://vwts.ru/seat_ibiza2_6k.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza2_6k.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Ibiza 3 2002 - 2010",
+    "model_code": "seat_ibiza3_6l",
+    "url": "https://vwts.ru/seat_ibiza3_6l.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza3_6l.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Ibiza 4 2008 - 2017",
+    "model_code": "seat_ibiza4_6j",
+    "url": "https://vwts.ru/seat_ibiza4_6j.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza4_6j.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Ibiza 5 2018 -",
+    "model_code": "seat_ibiza5_kj",
+    "url": "https://vwts.ru/seat_ibiza5_kj.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza5_kj.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Leon 2 2006 - 2013",
+    "model_code": "seat_leon2_1p",
+    "url": "https://vwts.ru/seat_leon2_1p.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon2_1p.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Leon 3 2014 -",
+    "model_code": "seat_leon3_5f",
+    "url": "https://vwts.ru/seat_leon3_5f.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon3_5f.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Toledo 1 1991 - 1999",
+    "model_code": "seat_toledo_1l",
+    "url": "https://vwts.ru/seat_toledo_1l.html",
+    "pdf_page_url": "https://vwts.ru/seat_toledo_1l.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Toledo 2 1998 - 2004",
+    "model_code": "seat_leon1_1m",
+    "url": "https://vwts.ru/seat_leon1_1m.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon1_1m.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Toledo 3 2005 - 2010",
+    "model_code": "seat_altea_5p",
+    "url": "https://vwts.ru/seat_altea_5p.html",
+    "pdf_page_url": "https://vwts.ru/seat_altea_5p.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "SEAT Toledo 4 2013 -",
+    "model_code": "seat_toledo_kg",
+    "url": "https://vwts.ru/seat_toledo_kg.html",
+    "pdf_page_url": "https://vwts.ru/seat_toledo_kg.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda",
+    "model_code": "list-skoda-cars",
+    "url": "https://vwts.ru/list-skoda-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-skoda-cars.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Citigo",
+    "model_code": "sk_citigo_nf",
+    "url": "https://vwts.ru/sk_citigo_nf.html",
+    "pdf_page_url": "https://vwts.ru/sk_citigo_nf.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Fabia 1 2000 - 2007",
+    "model_code": "sk_fabia1_6y",
+    "url": "https://vwts.ru/sk_fabia1_6y.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia1_6y.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Fabia 2 2007 - 2015",
+    "model_code": "sk_fabia2_5j",
+    "url": "https://vwts.ru/sk_fabia2_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia2_5j.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Fabia 3 2015 - 2021",
+    "model_code": "sk_fabia3_nj",
+    "url": "https://vwts.ru/sk_fabia3_nj.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia3_nj.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Fabia 4 2022 -",
+    "model_code": "sk_fabia4",
+    "url": "https://vwts.ru/sk_fabia4.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia4.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Felicia",
+    "model_code": "sk_felicia_791",
+    "url": "https://vwts.ru/sk_felicia_791.html",
+    "pdf_page_url": "https://vwts.ru/sk_felicia_791.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Kamiq",
+    "model_code": "sk_kamiq_nw",
+    "url": "https://vwts.ru/sk_kamiq_nw.html",
+    "pdf_page_url": "https://vwts.ru/sk_kamiq_nw.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Karoq",
+    "model_code": "sk_karoq_nu",
+    "url": "https://vwts.ru/sk_karoq_nu.html",
+    "pdf_page_url": "https://vwts.ru/sk_karoq_nu.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Kodiaq 2 2024 -",
+    "model_code": "sk_kodiaq_2",
+    "url": "https://vwts.ru/sk_kodiaq_2.html",
+    "pdf_page_url": "https://vwts.ru/sk_kodiaq_2.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Kodiaq 2017 - 2023",
+    "model_code": "sk_kodiaq_ns",
+    "url": "https://vwts.ru/sk_kodiaq_ns.html",
+    "pdf_page_url": "https://vwts.ru/sk_kodiaq_ns.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Octavia 1 А4 1997 - 2010",
+    "model_code": "sk_octavia1_1u",
+    "url": "https://vwts.ru/sk_octavia1_1u.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia1_1u.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Octavia 2 А5 2004 - 2013",
+    "model_code": "sk_octavia2_1z",
+    "url": "https://vwts.ru/sk_octavia2_1z.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia2_1z.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Octavia 3 А7 2013 - 2019",
+    "model_code": "sk_octavia3_5e",
+    "url": "https://vwts.ru/sk_octavia3_5e.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia3_5e.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Octavia 4 А8 2020 -",
+    "model_code": "sk_octavia4_nx",
+    "url": "https://vwts.ru/sk_octavia4_nx.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia4_nx.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Rapid",
+    "model_code": "sk_rapid_5j",
+    "url": "https://vwts.ru/sk_rapid_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_rapid_5j.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Roomster",
+    "model_code": "sk_roomster_5j",
+    "url": "https://vwts.ru/sk_roomster_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_roomster_5j.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Scala",
+    "model_code": "sk_scala_nw",
+    "url": "https://vwts.ru/sk_scala_nw.html",
+    "pdf_page_url": "https://vwts.ru/sk_scala_nw.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Superb 1 2002 - 2008",
+    "model_code": "sk_superb1_3u",
+    "url": "https://vwts.ru/sk_superb1_3u.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb1_3u.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Superb 2 2008 - 2015",
+    "model_code": "sk_superb2_3t",
+    "url": "https://vwts.ru/sk_superb2_3t.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb2_3t.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Superb 3 2015 -",
+    "model_code": "sk_superb3_3v",
+    "url": "https://vwts.ru/sk_superb3_3v.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb3_3v.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Skoda Yeti",
+    "model_code": "sk_yeti_5l",
+    "url": "https://vwts.ru/sk_yeti_5l.html",
+    "pdf_page_url": "https://vwts.ru/sk_yeti_5l.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Amarok 2015 - 2022",
+    "model_code": "vw_amarok_2h",
+    "url": "https://vwts.ru/vw_amarok_2h.html",
+    "pdf_page_url": "https://vwts.ru/vw_amarok_2h.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Amarok 2023 -",
+    "model_code": "vw_amarok_2023",
+    "url": "https://vwts.ru/vw_amarok_2023.html",
+    "pdf_page_url": "https://vwts.ru/vw_amarok_2023.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Arteon",
+    "model_code": "vw_arteon_3h",
+    "url": "https://vwts.ru/vw_arteon_3h.html",
+    "pdf_page_url": "https://vwts.ru/vw_arteon_3h.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Beetle (Type 1) 1938 - 2003",
+    "model_code": "vw_beetle",
+    "url": "https://vwts.ru/vw_beetle.html",
+    "pdf_page_url": "https://vwts.ru/vw_beetle.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Beetle 2012 -",
+    "model_code": "vw_beetle_5c",
+    "url": "https://vwts.ru/vw_beetle_5c.html",
+    "pdf_page_url": "https://vwts.ru/vw_beetle_5c.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Caddy 1 1992 - 1994",
+    "model_code": "vw_caddy_14",
+    "url": "https://vwts.ru/vw_caddy_14.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_14.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Caddy 2 1995 - 2003",
+    "model_code": "vw_caddy_9k",
+    "url": "https://vwts.ru/vw_caddy_9k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_9k.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Caddy 3 2004 - 2010",
+    "model_code": "vw_caddy_2k",
+    "url": "https://vwts.ru/vw_caddy_2k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_2k.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Caddy 3 2011 - 2015",
+    "model_code": "vw_caddy3_2c",
+    "url": "https://vwts.ru/vw_caddy3_2c.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy3_2c.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Caddy 4 2016 - 2020",
+    "model_code": "vw_caddy4_3k",
+    "url": "https://vwts.ru/vw_caddy4_3k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy4_3k.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Caddy 5 2021 -",
+    "model_code": "vw_caddy_5",
+    "url": "https://vwts.ru/vw_caddy_5.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_5.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Corrado",
+    "model_code": "vw_corrado_53i",
+    "url": "https://vwts.ru/vw_corrado_53i.html",
+    "pdf_page_url": "https://vwts.ru/vw_corrado_53i.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Crafter 2 2017 -",
+    "model_code": "vw_crafter_sy",
+    "url": "https://vwts.ru/vw_crafter_sy.html",
+    "pdf_page_url": "https://vwts.ru/vw_crafter_sy.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Crafter 2006 - 2016",
+    "model_code": "vw_crafter_2f",
+    "url": "https://vwts.ru/vw_crafter_2f.html",
+    "pdf_page_url": "https://vwts.ru/vw_crafter_2f.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Eos",
+    "model_code": "vw_eos_1f",
+    "url": "https://vwts.ru/vw_eos_1f.html",
+    "pdf_page_url": "https://vwts.ru/vw_eos_1f.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Fox",
+    "model_code": "vw_fox_5z",
+    "url": "vw_fox_5z.html",
+    "pdf_page_url": "vw_fox_5z.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Gol / Pointer",
+    "model_code": "vw_gol_9x_5x_5w",
+    "url": "https://vwts.ru/vw_gol_9x_5x_5w.html",
+    "pdf_page_url": "https://vwts.ru/vw_gol_9x_5x_5w.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf 1, Jetta 1 1974 - 1984",
+    "model_code": "vw_golf1_17",
+    "url": "https://vwts.ru/vw_golf1_17.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf1_17.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf 2, Jetta 2 1984 - 1992",
+    "model_code": "vw_golf2_19e",
+    "url": "https://vwts.ru/vw_golf2_19e.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf2_19e.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf 3, Vento 1992 - 1998",
+    "model_code": "vw_golf3_1h",
+    "url": "https://vwts.ru/vw_golf3_1h.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf3_1h.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf 4, Bora 1997 - 2004",
+    "model_code": "vw_golf4_1j",
+    "url": "https://vwts.ru/vw_golf4_1j.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf4_1j.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf 5, Jetta 5 2004 - 2009",
+    "model_code": "vw_golf5_1k",
+    "url": "https://vwts.ru/vw_golf5_1k.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf5_1k.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf 6, Jetta 6 2009 - 2017",
+    "model_code": "vw_golf6_5k",
+    "url": "https://vwts.ru/vw_golf6_5k.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf6_5k.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf 7 2013 - 2019",
+    "model_code": "vw_golf7_5g",
+    "url": "https://vwts.ru/vw_golf7_5g.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf7_5g.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf 8 2020 -",
+    "model_code": "vw_golf8_cd",
+    "url": "https://vwts.ru/vw_golf8_cd.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf8_cd.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Golf Sportsvan 2014 -",
+    "model_code": "vw_golf_sportsvan_am",
+    "url": "https://vwts.ru/vw_golf_sportsvan_am.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf_sportsvan_am.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW ID.3",
+    "model_code": "vw_id3_e11",
+    "url": "https://vwts.ru/vw_id3_e11.html",
+    "pdf_page_url": "https://vwts.ru/vw_id3_e11.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW ID.4 / ID.5",
+    "model_code": "vw_id4_id5",
+    "url": "https://vwts.ru/vw_id4_id5.html",
+    "pdf_page_url": "https://vwts.ru/vw_id4_id5.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW ID.7",
+    "model_code": "vw_id7",
+    "url": "https://vwts.ru/vw_id7.html",
+    "pdf_page_url": "https://vwts.ru/vw_id7.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Jetta 7 2019 -",
+    "model_code": "vw_jetta_7",
+    "url": "https://vwts.ru/vw_jetta_7.html",
+    "pdf_page_url": "https://vwts.ru/vw_jetta_7.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW LT",
+    "model_code": "vw_lt_2d",
+    "url": "https://vwts.ru/vw_lt_2d.html",
+    "pdf_page_url": "https://vwts.ru/vw_lt_2d.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Lupo",
+    "model_code": "vw_lupo_6x_6e",
+    "url": "https://vwts.ru/vw_lupo_6x_6e.html",
+    "pdf_page_url": "https://vwts.ru/vw_lupo_6x_6e.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW New Beetle 1998 - 2011",
+    "model_code": "vw_newbeetle_1c_1y_9c",
+    "url": "https://vwts.ru/vw_newbeetle_1c_1y_9c.html",
+    "pdf_page_url": "https://vwts.ru/vw_newbeetle_1c_1y_9c.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B2 1982 - 1988",
+    "model_code": "vw_passat2_32b",
+    "url": "https://vwts.ru/vw_passat2_32b.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat2_32b.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B3 1988 - 1994",
+    "model_code": "vw_passat3_35i",
+    "url": "https://vwts.ru/vw_passat3_35i.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat3_35i.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B4 1994 - 1997",
+    "model_code": "vw_passat4_35i",
+    "url": "https://vwts.ru/vw_passat4_35i.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat4_35i.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B5 1997 - 2001",
+    "model_code": "vw_passat5_3b",
+    "url": "https://vwts.ru/vw_passat5_3b.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat5_3b.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B5 GP 2001 - 2005",
+    "model_code": "vw_passat5_5_3bg",
+    "url": "https://vwts.ru/vw_passat5_5_3bg.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat5_5_3bg.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B6 2006 - 2010",
+    "model_code": "vw_passat6_3c",
+    "url": "https://vwts.ru/vw_passat6_3c.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat6_3c.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B7 2011 - 2015",
+    "model_code": "vw_passat7_362",
+    "url": "https://vwts.ru/vw_passat7_362.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat7_362.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B8 2015 - 2023",
+    "model_code": "vw_passat8_3g",
+    "url": "https://vwts.ru/vw_passat8_3g.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat8_3g.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Passat B9 2024 -",
+    "model_code": "vw_passat9",
+    "url": "https://vwts.ru/vw_passat9.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat9.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Phaeton",
+    "model_code": "vw_phaeton_3d",
+    "url": "https://vwts.ru/vw_phaeton_3d.html",
+    "pdf_page_url": "https://vwts.ru/vw_phaeton_3d.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Polo 1 1975 - 1981",
+    "model_code": "vw_polo1_86",
+    "url": "https://vwts.ru/vw_polo1_86.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo1_86.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Polo 2 1982 - 1994",
+    "model_code": "vw_polo2_80",
+    "url": "https://vwts.ru/vw_polo2_80.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo2_80.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Polo 3 1995 - 2001",
+    "model_code": "vw_polo3_6n_6kv",
+    "url": "https://vwts.ru/vw_polo3_6n_6kv.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo3_6n_6kv.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Polo 4 2002 - 2009",
+    "model_code": "vw_polo4_9n",
+    "url": "https://vwts.ru/vw_polo4_9n.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo4_9n.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Polo 5 2010 - 2017",
+    "model_code": "vw_polo5_6r",
+    "url": "https://vwts.ru/vw_polo5_6r.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo5_6r.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Polo 6 2018 -",
+    "model_code": "vw_polo6_aw",
+    "url": "https://vwts.ru/vw_polo6_aw.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo6_aw.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Polo Sedan 2011 - 2015",
+    "model_code": "vw_polo_sedan_612",
+    "url": "https://vwts.ru/vw_polo_sedan_612.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo_sedan_612.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Scirocco 1974 - 1981",
+    "model_code": "vw_scirocco1_53",
+    "url": "https://vwts.ru/vw_scirocco1_53.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco1_53.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Scirocco 1981 - 1992",
+    "model_code": "vw_scirocco2_53b",
+    "url": "https://vwts.ru/vw_scirocco2_53b.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco2_53b.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Scirocco 2008 - 2015",
+    "model_code": "vw_scirocco3_13",
+    "url": "https://vwts.ru/vw_scirocco3_13.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco3_13.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Sharan 1995 - 2010",
+    "model_code": "vw_sharan_7m",
+    "url": "https://vwts.ru/vw_sharan_7m.html",
+    "pdf_page_url": "https://vwts.ru/vw_sharan_7m.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Sharan 2 2011 -",
+    "model_code": "vw_sharan_7n",
+    "url": "https://vwts.ru/vw_sharan_7n.html",
+    "pdf_page_url": "https://vwts.ru/vw_sharan_7n.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW T-Cross",
+    "model_code": "vw_t-cross_c1",
+    "url": "https://vwts.ru/vw_t-cross_c1.html",
+    "pdf_page_url": "https://vwts.ru/vw_t-cross_c1.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW T-Roc",
+    "model_code": "vw_t-roc_a1",
+    "url": "https://vwts.ru/vw_t-roc_a1.html",
+    "pdf_page_url": "https://vwts.ru/vw_t-roc_a1.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Taos",
+    "model_code": "vw_taos",
+    "url": "https://vwts.ru/vw_taos.html",
+    "pdf_page_url": "https://vwts.ru/vw_taos.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Teramont",
+    "model_code": "vw_teramont_0a",
+    "url": "https://vwts.ru/vw_teramont_0a.html",
+    "pdf_page_url": "https://vwts.ru/vw_teramont_0a.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Tiguan 2 2016 - 2023",
+    "model_code": "vw_tiguan2_ad",
+    "url": "https://vwts.ru/vw_tiguan2_ad.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan2_ad.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Tiguan 2008 - 2015",
+    "model_code": "vw_tiguan_5n",
+    "url": "https://vwts.ru/vw_tiguan_5n.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan_5n.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Tiguan 3 2024 -",
+    "model_code": "vw_tiguan3",
+    "url": "https://vwts.ru/vw_tiguan3.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan3.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Touareg  2003 - 2010",
+    "model_code": "vw_touareg_7l",
+    "url": "https://vwts.ru/vw_touareg_7l.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_7l.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Touareg 2 2011 - 2017",
+    "model_code": "vw_touareg_7p",
+    "url": "https://vwts.ru/vw_touareg_7p.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_7p.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Touareg 3 2018 -",
+    "model_code": "vw_touareg_cr",
+    "url": "https://vwts.ru/vw_touareg_cr.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_cr.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Touran 2 2016 -",
+    "model_code": "vw_touran2_5t",
+    "url": "https://vwts.ru/vw_touran2_5t.html",
+    "pdf_page_url": "https://vwts.ru/vw_touran2_5t.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Touran 2003 - 2015",
+    "model_code": "vw_touran_1t",
+    "url": "https://vwts.ru/vw_touran_1t.html",
+    "pdf_page_url": "https://vwts.ru/vw_touran_1t.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Transporter T3 1980 - 1992",
+    "model_code": "vw_t3_25",
+    "url": "https://vwts.ru/vw_t3_25.html",
+    "pdf_page_url": "https://vwts.ru/vw_t3_25.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Transporter T4 1991 - 2003",
+    "model_code": "vw_t4_7d",
+    "url": "https://vwts.ru/vw_t4_7d.html",
+    "pdf_page_url": "https://vwts.ru/vw_t4_7d.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Transporter T5 2003 - 2015",
+    "model_code": "vw_t5_7h",
+    "url": "https://vwts.ru/vw_t5_7h.html",
+    "pdf_page_url": "https://vwts.ru/vw_t5_7h.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Transporter T6 2015 -",
+    "model_code": "vw_t6_sg",
+    "url": "https://vwts.ru/vw_t6_sg.html",
+    "pdf_page_url": "https://vwts.ru/vw_t6_sg.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Type 2 (T1) 1950 - 1967",
+    "model_code": "vw_t1_14",
+    "url": "https://vwts.ru/vw_t1_14.html",
+    "pdf_page_url": "https://vwts.ru/vw_t1_14.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Type 2 (T2) 1968 - 1979",
+    "model_code": "vw_t2_22",
+    "url": "https://vwts.ru/vw_t2_22.html",
+    "pdf_page_url": "https://vwts.ru/vw_t2_22.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "VW Up!",
+    "model_code": "vw_up_1s",
+    "url": "https://vwts.ru/vw_up_1s.html",
+    "pdf_page_url": "https://vwts.ru/vw_up_1s.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Без платформ",
+    "model_code": "pl_other",
+    "url": "https://vwts.ru/pl_other.html",
+    "pdf_page_url": "https://vwts.ru/pl_other.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Выхлопная система",
+    "model_code": "all_exhaust",
+    "url": "https://vwts.ru/all_exhaust.html",
+    "pdf_page_url": "https://vwts.ru/all_exhaust.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Двигатели",
+    "model_code": "dvigateli-vw-audi",
+    "url": "https://vwts.ru/dvigateli-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/dvigateli-vw-audi.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Диагностика",
+    "model_code": "diag",
+    "url": "https://vwts.ru/diag.html",
+    "pdf_page_url": "https://vwts.ru/diag.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Диагностика VAG",
+    "model_code": "diagnostika-vw-audi-skoda",
+    "url": "https://vwts.ru/diagnostika-vw-audi-skoda.html",
+    "pdf_page_url": "https://vwts.ru/diagnostika-vw-audi-skoda.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Запчасти, сервисы, разборки",
+    "model_code": "page13",
+    "url": "https://vwts.ru/page13.html",
+    "pdf_page_url": "https://vwts.ru/page13.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "История и модели VW",
+    "model_code": "vw-history-and-models",
+    "url": "https://vwts.ru/vw-history-and-models.html",
+    "pdf_page_url": "https://vwts.ru/vw-history-and-models.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Как здесь найти нужную информацию?",
+    "model_code": "how_work",
+    "url": "https://vwts.ru/how_work.html",
+    "pdf_page_url": "https://vwts.ru/how_work.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Клубная карта, скидки",
+    "model_code": "discount",
+    "url": "https://vwts.ru/discount.html",
+    "pdf_page_url": "https://vwts.ru/discount.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Коробки передач",
+    "model_code": "transmission-vw-audi",
+    "url": "https://vwts.ru/transmission-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/transmission-vw-audi.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Кузов",
+    "model_code": "all_body",
+    "url": "https://vwts.ru/all_body.html",
+    "pdf_page_url": "https://vwts.ru/all_body.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Подвеска",
+    "model_code": "all_suspension",
+    "url": "https://vwts.ru/all_suspension.html",
+    "pdf_page_url": "https://vwts.ru/all_suspension.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Покупка Volkswagen",
+    "model_code": "page12",
+    "url": "https://vwts.ru/page12.html",
+    "pdf_page_url": "https://vwts.ru/page12.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Полезные ссылки",
+    "model_code": "page15",
+    "url": "https://vwts.ru/page15.html",
+    "pdf_page_url": "https://vwts.ru/page15.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Расшифровка заводской комплектации автомобиля (англ.)",
+    "model_code": "complect",
+    "url": "https://vwts.ru/complect.html",
+    "pdf_page_url": "https://vwts.ru/complect.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Рулевое управление",
+    "model_code": "all_steering",
+    "url": "https://vwts.ru/all_steering.html",
+    "pdf_page_url": "https://vwts.ru/all_steering.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Сервисное обслуживание",
+    "model_code": "page11",
+    "url": "https://vwts.ru/page11.html",
+    "pdf_page_url": "https://vwts.ru/page11.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Система охлаждения",
+    "model_code": "all_cooling",
+    "url": "https://vwts.ru/all_cooling.html",
+    "pdf_page_url": "https://vwts.ru/all_cooling.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Системы впрыска",
+    "model_code": "injector-vw-audi",
+    "url": "https://vwts.ru/injector-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/injector-vw-audi.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Системы зажигания",
+    "model_code": "all_ignition",
+    "url": "https://vwts.ru/all_ignition.html",
+    "pdf_page_url": "https://vwts.ru/all_ignition.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Топливная система",
+    "model_code": "fuel_system",
+    "url": "https://vwts.ru/fuel_system.html",
+    "pdf_page_url": "https://vwts.ru/fuel_system.html"
+  },
+  {
+    "brand": "Audi",
+    "brand_key": "audi",
+    "model_name": "Тормозная система",
+    "model_code": "all_brake",
+    "url": "https://vwts.ru/all_brake.html",
+    "pdf_page_url": "https://vwts.ru/all_brake.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi",
+    "model_code": "list-audi-cars",
+    "url": "https://vwts.ru/list-audi-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-audi-cars.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi 80 B4 1991 - 1995",
+    "model_code": "audi_80_8c",
+    "url": "https://vwts.ru/audi_80_8c.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_8c.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi 80/90 B2 1979 - 1987",
+    "model_code": "audi_80_81",
+    "url": "https://vwts.ru/audi_80_81.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_81.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi 80/90 B3 1987 - 1990",
+    "model_code": "audi_80_8b",
+    "url": "https://vwts.ru/audi_80_8b.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_8b.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A1",
+    "model_code": "audi_a1_8x",
+    "url": "https://vwts.ru/audi_a1_8x.html",
+    "pdf_page_url": "https://vwts.ru/audi_a1_8x.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A2",
+    "model_code": "audi_a2_8z",
+    "url": "https://vwts.ru/audi_a2_8z.html",
+    "pdf_page_url": "https://vwts.ru/audi_a2_8z.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A3 1997 - 2003",
+    "model_code": "audi_a3_8l",
+    "url": "https://vwts.ru/audi_a3_8l.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8l.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A3 2003 - 2012",
+    "model_code": "audi_a3_8p",
+    "url": "https://vwts.ru/audi_a3_8p.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8p.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A3 2013 - 2020",
+    "model_code": "audi_a3_8v",
+    "url": "https://vwts.ru/audi_a3_8v.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8v.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A3 2021 -",
+    "model_code": "audi_a3_8y",
+    "url": "https://vwts.ru/audi_a3_8y.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8y.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A4 (B5) 1995 - 2001",
+    "model_code": "audi_a4_8d",
+    "url": "https://vwts.ru/audi_a4_8d.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8d.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A4 (B7) 2005 - 2008",
+    "model_code": "audi_a4_8e_8h",
+    "url": "https://vwts.ru/audi_a4_8e_8h.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8e_8h.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A4 (B8) 2008 - 2015",
+    "model_code": "audi_a4_8k",
+    "url": "https://vwts.ru/audi_a4_8k.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8k.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A4 (B9) 2016 -",
+    "model_code": "audi_a4_8w",
+    "url": "https://vwts.ru/audi_a4_8w.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8w.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A5 (8T) 2008 - 2016",
+    "model_code": "audi_a5_8t",
+    "url": "https://vwts.ru/audi_a5_8t.html",
+    "pdf_page_url": "https://vwts.ru/audi_a5_8t.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A5 (F5) 2017 -",
+    "model_code": "audi_a5_f5",
+    "url": "https://vwts.ru/audi_a5_f5.html",
+    "pdf_page_url": "https://vwts.ru/audi_a5_f5.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A6 (C4), Audi 100 1991 - 1997",
+    "model_code": "audi_a6_4a",
+    "url": "https://vwts.ru/audi_a6_4a.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4a.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A6 (C5) 1997 - 2005",
+    "model_code": "audi_a6_4b",
+    "url": "https://vwts.ru/audi_a6_4b.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4b.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A6 (C6) 2005 - 2011",
+    "model_code": "audi_a6_4f",
+    "url": "https://vwts.ru/audi_a6_4f.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4f.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A6 (C7) 2011 - 2017",
+    "model_code": "audi_a6_a7_4g",
+    "url": "https://vwts.ru/audi_a6_a7_4g.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_a7_4g.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A6 (C8) 2017 -",
+    "model_code": "audi_a6_4a_a7_4k",
+    "url": "https://vwts.ru/audi_a6_4a_a7_4k.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4a_a7_4k.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A8 (D2) 1994 - 2002",
+    "model_code": "audi_a8_4d",
+    "url": "https://vwts.ru/audi_a8_4d.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4d.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A8 (D3) 2003 - 2010",
+    "model_code": "audi_a8_4e",
+    "url": "https://vwts.ru/audi_a8_4e.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4e.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A8 (D4) 2010 - 2017",
+    "model_code": "audi_a8_4h",
+    "url": "https://vwts.ru/audi_a8_4h.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4h.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi A8 (D5) 2018 -",
+    "model_code": "audi_a8_4n",
+    "url": "https://vwts.ru/audi_a8_4n.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4n.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi e-tron",
+    "model_code": "audi_e-tron",
+    "url": "https://vwts.ru/audi_e-tron.html",
+    "pdf_page_url": "https://vwts.ru/audi_e-tron.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi Q2",
+    "model_code": "audi_q2_ga",
+    "url": "https://vwts.ru/audi_q2_ga.html",
+    "pdf_page_url": "https://vwts.ru/audi_q2_ga.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi Q3 2012 - 2018",
+    "model_code": "audi_q3_8u",
+    "url": "https://vwts.ru/audi_q3_8u.html",
+    "pdf_page_url": "https://vwts.ru/audi_q3_8u.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi Q3 2019 -",
+    "model_code": "audi_q3_f3",
+    "url": "https://vwts.ru/audi_q3_f3.html",
+    "pdf_page_url": "https://vwts.ru/audi_q3_f3.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi Q5 2009 - 2016",
+    "model_code": "audi_q5_8r",
+    "url": "https://vwts.ru/audi_q5_8r.html",
+    "pdf_page_url": "https://vwts.ru/audi_q5_8r.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi Q5 2017 -",
+    "model_code": "audi_q5_fy",
+    "url": "https://vwts.ru/audi_q5_fy.html",
+    "pdf_page_url": "https://vwts.ru/audi_q5_fy.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi Q7 2005 - 2015",
+    "model_code": "audi_q7_4l",
+    "url": "https://vwts.ru/audi_q7_4l.html",
+    "pdf_page_url": "https://vwts.ru/audi_q7_4l.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi Q7 2015 -",
+    "model_code": "audi_q7_4m",
+    "url": "https://vwts.ru/audi_q7_4m.html",
+    "pdf_page_url": "https://vwts.ru/audi_q7_4m.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi Q8",
+    "model_code": "audi_q8_4m",
+    "url": "https://vwts.ru/audi_q8_4m.html",
+    "pdf_page_url": "https://vwts.ru/audi_q8_4m.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi TT 1999 - 2006",
+    "model_code": "audi_tt_8n",
+    "url": "https://vwts.ru/audi_tt_8n.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt_8n.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi TT 2 2007 - 2014",
+    "model_code": "audi_tt_8j",
+    "url": "https://vwts.ru/audi_tt_8j.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt_8j.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Audi TT 3 2015 -",
+    "model_code": "audi_tt3_fv",
+    "url": "https://vwts.ru/audi_tt3_fv.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt3_fv.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "ELSA / ETKA / ETOS",
+    "model_code": "elsa-etka-etos",
+    "url": "https://vwts.ru/elsa-etka-etos.html",
+    "pdf_page_url": "https://vwts.ru/elsa-etka-etos.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Seat",
+    "model_code": "list-seat-cars",
+    "url": "https://vwts.ru/list-seat-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-seat-cars.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Alhambra 1996 - 2015",
+    "model_code": "vw_sharan_7m",
+    "url": "https://vwts.ru/vw_sharan_7m.html",
+    "pdf_page_url": "https://vwts.ru/vw_sharan_7m.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Alhambra 2 2016 -",
+    "model_code": "vw_sharan_7n",
+    "url": "https://vwts.ru/vw_sharan_7n.html",
+    "pdf_page_url": "https://vwts.ru/vw_sharan_7n.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Arona",
+    "model_code": "seat_arona_kj",
+    "url": "https://vwts.ru/seat_arona_kj.html",
+    "pdf_page_url": "https://vwts.ru/seat_arona_kj.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Arosa",
+    "model_code": "seat_arosa_6h",
+    "url": "https://vwts.ru/seat_arosa_6h.html",
+    "pdf_page_url": "https://vwts.ru/seat_arosa_6h.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Ateca",
+    "model_code": "seat_ateca_kh7",
+    "url": "https://vwts.ru/seat_ateca_kh7.html",
+    "pdf_page_url": "https://vwts.ru/seat_ateca_kh7.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Ibiza 1 1985 - 1992",
+    "model_code": "seat_ibiza1_021a",
+    "url": "https://vwts.ru/seat_ibiza1_021a.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza1_021a.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Ibiza 2 1993 - 2002",
+    "model_code": "seat_ibiza2_6k",
+    "url": "https://vwts.ru/seat_ibiza2_6k.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza2_6k.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Ibiza 3 2002 - 2010",
+    "model_code": "seat_ibiza3_6l",
+    "url": "https://vwts.ru/seat_ibiza3_6l.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza3_6l.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Ibiza 4 2008 - 2017",
+    "model_code": "seat_ibiza4_6j",
+    "url": "https://vwts.ru/seat_ibiza4_6j.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza4_6j.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Ibiza 5 2018 -",
+    "model_code": "seat_ibiza5_kj",
+    "url": "https://vwts.ru/seat_ibiza5_kj.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza5_kj.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Leon 2 2006 - 2013",
+    "model_code": "seat_leon2_1p",
+    "url": "https://vwts.ru/seat_leon2_1p.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon2_1p.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Leon 3 2014 -",
+    "model_code": "seat_leon3_5f",
+    "url": "https://vwts.ru/seat_leon3_5f.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon3_5f.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT MII",
+    "model_code": "vw_up_1s",
+    "url": "https://vwts.ru/vw_up_1s.html",
+    "pdf_page_url": "https://vwts.ru/vw_up_1s.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Toledo 1 1991 - 1999",
+    "model_code": "seat_toledo_1l",
+    "url": "https://vwts.ru/seat_toledo_1l.html",
+    "pdf_page_url": "https://vwts.ru/seat_toledo_1l.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Toledo 2 1998 - 2004",
+    "model_code": "seat_leon1_1m",
+    "url": "https://vwts.ru/seat_leon1_1m.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon1_1m.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Toledo 3 2005 - 2010",
+    "model_code": "seat_altea_5p",
+    "url": "https://vwts.ru/seat_altea_5p.html",
+    "pdf_page_url": "https://vwts.ru/seat_altea_5p.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "SEAT Toledo 4 2013 -",
+    "model_code": "seat_toledo_kg",
+    "url": "https://vwts.ru/seat_toledo_kg.html",
+    "pdf_page_url": "https://vwts.ru/seat_toledo_kg.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda",
+    "model_code": "list-skoda-cars",
+    "url": "https://vwts.ru/list-skoda-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-skoda-cars.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Citigo",
+    "model_code": "sk_citigo_nf",
+    "url": "https://vwts.ru/sk_citigo_nf.html",
+    "pdf_page_url": "https://vwts.ru/sk_citigo_nf.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Fabia 1 2000 - 2007",
+    "model_code": "sk_fabia1_6y",
+    "url": "https://vwts.ru/sk_fabia1_6y.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia1_6y.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Fabia 2 2007 - 2015",
+    "model_code": "sk_fabia2_5j",
+    "url": "https://vwts.ru/sk_fabia2_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia2_5j.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Fabia 3 2015 - 2021",
+    "model_code": "sk_fabia3_nj",
+    "url": "https://vwts.ru/sk_fabia3_nj.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia3_nj.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Fabia 4 2022 -",
+    "model_code": "sk_fabia4",
+    "url": "https://vwts.ru/sk_fabia4.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia4.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Felicia",
+    "model_code": "sk_felicia_791",
+    "url": "https://vwts.ru/sk_felicia_791.html",
+    "pdf_page_url": "https://vwts.ru/sk_felicia_791.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Kamiq",
+    "model_code": "sk_kamiq_nw",
+    "url": "https://vwts.ru/sk_kamiq_nw.html",
+    "pdf_page_url": "https://vwts.ru/sk_kamiq_nw.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Karoq",
+    "model_code": "sk_karoq_nu",
+    "url": "https://vwts.ru/sk_karoq_nu.html",
+    "pdf_page_url": "https://vwts.ru/sk_karoq_nu.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Kodiaq 2 2024 -",
+    "model_code": "sk_kodiaq_2",
+    "url": "https://vwts.ru/sk_kodiaq_2.html",
+    "pdf_page_url": "https://vwts.ru/sk_kodiaq_2.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Kodiaq 2017 - 2023",
+    "model_code": "sk_kodiaq_ns",
+    "url": "https://vwts.ru/sk_kodiaq_ns.html",
+    "pdf_page_url": "https://vwts.ru/sk_kodiaq_ns.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Octavia 1 А4 1997 - 2010",
+    "model_code": "sk_octavia1_1u",
+    "url": "https://vwts.ru/sk_octavia1_1u.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia1_1u.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Octavia 2 А5 2004 - 2013",
+    "model_code": "sk_octavia2_1z",
+    "url": "https://vwts.ru/sk_octavia2_1z.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia2_1z.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Octavia 3 А7 2013 - 2019",
+    "model_code": "sk_octavia3_5e",
+    "url": "https://vwts.ru/sk_octavia3_5e.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia3_5e.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Octavia 4 А8 2020 -",
+    "model_code": "sk_octavia4_nx",
+    "url": "https://vwts.ru/sk_octavia4_nx.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia4_nx.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Rapid",
+    "model_code": "sk_rapid_5j",
+    "url": "https://vwts.ru/sk_rapid_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_rapid_5j.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Roomster",
+    "model_code": "sk_roomster_5j",
+    "url": "https://vwts.ru/sk_roomster_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_roomster_5j.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Scala",
+    "model_code": "sk_scala_nw",
+    "url": "https://vwts.ru/sk_scala_nw.html",
+    "pdf_page_url": "https://vwts.ru/sk_scala_nw.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Superb 1 2002 - 2008",
+    "model_code": "sk_superb1_3u",
+    "url": "https://vwts.ru/sk_superb1_3u.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb1_3u.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Superb 2 2008 - 2015",
+    "model_code": "sk_superb2_3t",
+    "url": "https://vwts.ru/sk_superb2_3t.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb2_3t.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Superb 3 2015 -",
+    "model_code": "sk_superb3_3v",
+    "url": "https://vwts.ru/sk_superb3_3v.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb3_3v.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Skoda Yeti",
+    "model_code": "sk_yeti_5l",
+    "url": "https://vwts.ru/sk_yeti_5l.html",
+    "pdf_page_url": "https://vwts.ru/sk_yeti_5l.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Amarok 2015 - 2022",
+    "model_code": "vw_amarok_2h",
+    "url": "https://vwts.ru/vw_amarok_2h.html",
+    "pdf_page_url": "https://vwts.ru/vw_amarok_2h.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Amarok 2023 -",
+    "model_code": "vw_amarok_2023",
+    "url": "https://vwts.ru/vw_amarok_2023.html",
+    "pdf_page_url": "https://vwts.ru/vw_amarok_2023.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Arteon",
+    "model_code": "vw_arteon_3h",
+    "url": "https://vwts.ru/vw_arteon_3h.html",
+    "pdf_page_url": "https://vwts.ru/vw_arteon_3h.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Beetle (Type 1) 1938 - 2003",
+    "model_code": "vw_beetle",
+    "url": "https://vwts.ru/vw_beetle.html",
+    "pdf_page_url": "https://vwts.ru/vw_beetle.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Beetle 2012 -",
+    "model_code": "vw_beetle_5c",
+    "url": "https://vwts.ru/vw_beetle_5c.html",
+    "pdf_page_url": "https://vwts.ru/vw_beetle_5c.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Caddy 1 1992 - 1994",
+    "model_code": "vw_caddy_14",
+    "url": "https://vwts.ru/vw_caddy_14.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_14.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Caddy 2 1995 - 2003",
+    "model_code": "vw_caddy_9k",
+    "url": "https://vwts.ru/vw_caddy_9k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_9k.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Caddy 3 2004 - 2010",
+    "model_code": "vw_caddy_2k",
+    "url": "https://vwts.ru/vw_caddy_2k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_2k.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Caddy 3 2011 - 2015",
+    "model_code": "vw_caddy3_2c",
+    "url": "https://vwts.ru/vw_caddy3_2c.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy3_2c.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Caddy 4 2016 - 2020",
+    "model_code": "vw_caddy4_3k",
+    "url": "https://vwts.ru/vw_caddy4_3k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy4_3k.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Caddy 5 2021 -",
+    "model_code": "vw_caddy_5",
+    "url": "https://vwts.ru/vw_caddy_5.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_5.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Corrado",
+    "model_code": "vw_corrado_53i",
+    "url": "https://vwts.ru/vw_corrado_53i.html",
+    "pdf_page_url": "https://vwts.ru/vw_corrado_53i.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Crafter 2 2017 -",
+    "model_code": "vw_crafter_sy",
+    "url": "https://vwts.ru/vw_crafter_sy.html",
+    "pdf_page_url": "https://vwts.ru/vw_crafter_sy.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Crafter 2006 - 2016",
+    "model_code": "vw_crafter_2f",
+    "url": "https://vwts.ru/vw_crafter_2f.html",
+    "pdf_page_url": "https://vwts.ru/vw_crafter_2f.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Eos",
+    "model_code": "vw_eos_1f",
+    "url": "https://vwts.ru/vw_eos_1f.html",
+    "pdf_page_url": "https://vwts.ru/vw_eos_1f.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Fox",
+    "model_code": "vw_fox_5z",
+    "url": "vw_fox_5z.html",
+    "pdf_page_url": "vw_fox_5z.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Gol / Pointer",
+    "model_code": "vw_gol_9x_5x_5w",
+    "url": "https://vwts.ru/vw_gol_9x_5x_5w.html",
+    "pdf_page_url": "https://vwts.ru/vw_gol_9x_5x_5w.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf 1, Jetta 1 1974 - 1984",
+    "model_code": "vw_golf1_17",
+    "url": "https://vwts.ru/vw_golf1_17.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf1_17.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf 2, Jetta 2 1984 - 1992",
+    "model_code": "vw_golf2_19e",
+    "url": "https://vwts.ru/vw_golf2_19e.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf2_19e.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf 3, Vento 1992 - 1998",
+    "model_code": "vw_golf3_1h",
+    "url": "https://vwts.ru/vw_golf3_1h.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf3_1h.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf 4, Bora 1997 - 2004",
+    "model_code": "vw_golf4_1j",
+    "url": "https://vwts.ru/vw_golf4_1j.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf4_1j.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf 5, Jetta 5 2004 - 2009",
+    "model_code": "vw_golf5_1k",
+    "url": "https://vwts.ru/vw_golf5_1k.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf5_1k.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf 6, Jetta 6 2009 - 2017",
+    "model_code": "vw_golf6_5k",
+    "url": "https://vwts.ru/vw_golf6_5k.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf6_5k.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf 7 2013 - 2019",
+    "model_code": "vw_golf7_5g",
+    "url": "https://vwts.ru/vw_golf7_5g.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf7_5g.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf 8 2020 -",
+    "model_code": "vw_golf8_cd",
+    "url": "https://vwts.ru/vw_golf8_cd.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf8_cd.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Golf Sportsvan 2014 -",
+    "model_code": "vw_golf_sportsvan_am",
+    "url": "https://vwts.ru/vw_golf_sportsvan_am.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf_sportsvan_am.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW ID.3",
+    "model_code": "vw_id3_e11",
+    "url": "https://vwts.ru/vw_id3_e11.html",
+    "pdf_page_url": "https://vwts.ru/vw_id3_e11.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW ID.4 / ID.5",
+    "model_code": "vw_id4_id5",
+    "url": "https://vwts.ru/vw_id4_id5.html",
+    "pdf_page_url": "https://vwts.ru/vw_id4_id5.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW ID.7",
+    "model_code": "vw_id7",
+    "url": "https://vwts.ru/vw_id7.html",
+    "pdf_page_url": "https://vwts.ru/vw_id7.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Jetta 7 2019 -",
+    "model_code": "vw_jetta_7",
+    "url": "https://vwts.ru/vw_jetta_7.html",
+    "pdf_page_url": "https://vwts.ru/vw_jetta_7.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW LT",
+    "model_code": "vw_lt_2d",
+    "url": "https://vwts.ru/vw_lt_2d.html",
+    "pdf_page_url": "https://vwts.ru/vw_lt_2d.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Lupo",
+    "model_code": "vw_lupo_6x_6e",
+    "url": "https://vwts.ru/vw_lupo_6x_6e.html",
+    "pdf_page_url": "https://vwts.ru/vw_lupo_6x_6e.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW New Beetle 1998 - 2011",
+    "model_code": "vw_newbeetle_1c_1y_9c",
+    "url": "https://vwts.ru/vw_newbeetle_1c_1y_9c.html",
+    "pdf_page_url": "https://vwts.ru/vw_newbeetle_1c_1y_9c.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B2 1982 - 1988",
+    "model_code": "vw_passat2_32b",
+    "url": "https://vwts.ru/vw_passat2_32b.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat2_32b.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B3 1988 - 1994",
+    "model_code": "vw_passat3_35i",
+    "url": "https://vwts.ru/vw_passat3_35i.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat3_35i.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B4 1994 - 1997",
+    "model_code": "vw_passat4_35i",
+    "url": "https://vwts.ru/vw_passat4_35i.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat4_35i.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B5 1997 - 2001",
+    "model_code": "vw_passat5_3b",
+    "url": "https://vwts.ru/vw_passat5_3b.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat5_3b.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B5 GP 2001 - 2005",
+    "model_code": "vw_passat5_5_3bg",
+    "url": "https://vwts.ru/vw_passat5_5_3bg.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat5_5_3bg.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B6 2006 - 2010",
+    "model_code": "vw_passat6_3c",
+    "url": "https://vwts.ru/vw_passat6_3c.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat6_3c.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B7 2011 - 2015",
+    "model_code": "vw_passat7_362",
+    "url": "https://vwts.ru/vw_passat7_362.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat7_362.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B8 2015 - 2023",
+    "model_code": "vw_passat8_3g",
+    "url": "https://vwts.ru/vw_passat8_3g.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat8_3g.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Passat B9 2024 -",
+    "model_code": "vw_passat9",
+    "url": "https://vwts.ru/vw_passat9.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat9.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Phaeton",
+    "model_code": "vw_phaeton_3d",
+    "url": "https://vwts.ru/vw_phaeton_3d.html",
+    "pdf_page_url": "https://vwts.ru/vw_phaeton_3d.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Polo 1 1975 - 1981",
+    "model_code": "vw_polo1_86",
+    "url": "https://vwts.ru/vw_polo1_86.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo1_86.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Polo 2 1982 - 1994",
+    "model_code": "vw_polo2_80",
+    "url": "https://vwts.ru/vw_polo2_80.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo2_80.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Polo 3 1995 - 2001",
+    "model_code": "vw_polo3_6n_6kv",
+    "url": "https://vwts.ru/vw_polo3_6n_6kv.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo3_6n_6kv.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Polo 4 2002 - 2009",
+    "model_code": "vw_polo4_9n",
+    "url": "https://vwts.ru/vw_polo4_9n.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo4_9n.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Polo 5 2010 - 2017",
+    "model_code": "vw_polo5_6r",
+    "url": "https://vwts.ru/vw_polo5_6r.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo5_6r.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Polo 6 2018 -",
+    "model_code": "vw_polo6_aw",
+    "url": "https://vwts.ru/vw_polo6_aw.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo6_aw.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Polo Sedan 2011 - 2015",
+    "model_code": "vw_polo_sedan_612",
+    "url": "https://vwts.ru/vw_polo_sedan_612.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo_sedan_612.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Scirocco 1974 - 1981",
+    "model_code": "vw_scirocco1_53",
+    "url": "https://vwts.ru/vw_scirocco1_53.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco1_53.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Scirocco 1981 - 1992",
+    "model_code": "vw_scirocco2_53b",
+    "url": "https://vwts.ru/vw_scirocco2_53b.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco2_53b.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Scirocco 2008 - 2015",
+    "model_code": "vw_scirocco3_13",
+    "url": "https://vwts.ru/vw_scirocco3_13.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco3_13.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW T-Cross",
+    "model_code": "vw_t-cross_c1",
+    "url": "https://vwts.ru/vw_t-cross_c1.html",
+    "pdf_page_url": "https://vwts.ru/vw_t-cross_c1.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW T-Roc",
+    "model_code": "vw_t-roc_a1",
+    "url": "https://vwts.ru/vw_t-roc_a1.html",
+    "pdf_page_url": "https://vwts.ru/vw_t-roc_a1.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Taos",
+    "model_code": "vw_taos",
+    "url": "https://vwts.ru/vw_taos.html",
+    "pdf_page_url": "https://vwts.ru/vw_taos.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Teramont",
+    "model_code": "vw_teramont_0a",
+    "url": "https://vwts.ru/vw_teramont_0a.html",
+    "pdf_page_url": "https://vwts.ru/vw_teramont_0a.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Tiguan 2 2016 - 2023",
+    "model_code": "vw_tiguan2_ad",
+    "url": "https://vwts.ru/vw_tiguan2_ad.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan2_ad.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Tiguan 2008 - 2015",
+    "model_code": "vw_tiguan_5n",
+    "url": "https://vwts.ru/vw_tiguan_5n.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan_5n.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Tiguan 3 2024 -",
+    "model_code": "vw_tiguan3",
+    "url": "https://vwts.ru/vw_tiguan3.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan3.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Touareg  2003 - 2010",
+    "model_code": "vw_touareg_7l",
+    "url": "https://vwts.ru/vw_touareg_7l.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_7l.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Touareg 2 2011 - 2017",
+    "model_code": "vw_touareg_7p",
+    "url": "https://vwts.ru/vw_touareg_7p.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_7p.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Touareg 3 2018 -",
+    "model_code": "vw_touareg_cr",
+    "url": "https://vwts.ru/vw_touareg_cr.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_cr.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Touran 2 2016 -",
+    "model_code": "vw_touran2_5t",
+    "url": "https://vwts.ru/vw_touran2_5t.html",
+    "pdf_page_url": "https://vwts.ru/vw_touran2_5t.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Touran 2003 - 2015",
+    "model_code": "vw_touran_1t",
+    "url": "https://vwts.ru/vw_touran_1t.html",
+    "pdf_page_url": "https://vwts.ru/vw_touran_1t.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Transporter T3 1980 - 1992",
+    "model_code": "vw_t3_25",
+    "url": "https://vwts.ru/vw_t3_25.html",
+    "pdf_page_url": "https://vwts.ru/vw_t3_25.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Transporter T4 1991 - 2003",
+    "model_code": "vw_t4_7d",
+    "url": "https://vwts.ru/vw_t4_7d.html",
+    "pdf_page_url": "https://vwts.ru/vw_t4_7d.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Transporter T5 2003 - 2015",
+    "model_code": "vw_t5_7h",
+    "url": "https://vwts.ru/vw_t5_7h.html",
+    "pdf_page_url": "https://vwts.ru/vw_t5_7h.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Transporter T6 2015 -",
+    "model_code": "vw_t6_sg",
+    "url": "https://vwts.ru/vw_t6_sg.html",
+    "pdf_page_url": "https://vwts.ru/vw_t6_sg.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Type 2 (T1) 1950 - 1967",
+    "model_code": "vw_t1_14",
+    "url": "https://vwts.ru/vw_t1_14.html",
+    "pdf_page_url": "https://vwts.ru/vw_t1_14.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "VW Type 2 (T2) 1968 - 1979",
+    "model_code": "vw_t2_22",
+    "url": "https://vwts.ru/vw_t2_22.html",
+    "pdf_page_url": "https://vwts.ru/vw_t2_22.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Без платформ",
+    "model_code": "pl_other",
+    "url": "https://vwts.ru/pl_other.html",
+    "pdf_page_url": "https://vwts.ru/pl_other.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Выхлопная система",
+    "model_code": "all_exhaust",
+    "url": "https://vwts.ru/all_exhaust.html",
+    "pdf_page_url": "https://vwts.ru/all_exhaust.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Двигатели",
+    "model_code": "dvigateli-vw-audi",
+    "url": "https://vwts.ru/dvigateli-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/dvigateli-vw-audi.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Диагностика",
+    "model_code": "diag",
+    "url": "https://vwts.ru/diag.html",
+    "pdf_page_url": "https://vwts.ru/diag.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Диагностика VAG",
+    "model_code": "diagnostika-vw-audi-skoda",
+    "url": "https://vwts.ru/diagnostika-vw-audi-skoda.html",
+    "pdf_page_url": "https://vwts.ru/diagnostika-vw-audi-skoda.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Запчасти, сервисы, разборки",
+    "model_code": "page13",
+    "url": "https://vwts.ru/page13.html",
+    "pdf_page_url": "https://vwts.ru/page13.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "История и модели VW",
+    "model_code": "vw-history-and-models",
+    "url": "https://vwts.ru/vw-history-and-models.html",
+    "pdf_page_url": "https://vwts.ru/vw-history-and-models.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Как здесь найти нужную информацию?",
+    "model_code": "how_work",
+    "url": "https://vwts.ru/how_work.html",
+    "pdf_page_url": "https://vwts.ru/how_work.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Клубная карта, скидки",
+    "model_code": "discount",
+    "url": "https://vwts.ru/discount.html",
+    "pdf_page_url": "https://vwts.ru/discount.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Коробки передач",
+    "model_code": "transmission-vw-audi",
+    "url": "https://vwts.ru/transmission-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/transmission-vw-audi.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Кузов",
+    "model_code": "all_body",
+    "url": "https://vwts.ru/all_body.html",
+    "pdf_page_url": "https://vwts.ru/all_body.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Подвеска",
+    "model_code": "all_suspension",
+    "url": "https://vwts.ru/all_suspension.html",
+    "pdf_page_url": "https://vwts.ru/all_suspension.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Покупка Volkswagen",
+    "model_code": "page12",
+    "url": "https://vwts.ru/page12.html",
+    "pdf_page_url": "https://vwts.ru/page12.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Полезные ссылки",
+    "model_code": "page15",
+    "url": "https://vwts.ru/page15.html",
+    "pdf_page_url": "https://vwts.ru/page15.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Расшифровка заводской комплектации автомобиля (англ.)",
+    "model_code": "complect",
+    "url": "https://vwts.ru/complect.html",
+    "pdf_page_url": "https://vwts.ru/complect.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Рулевое управление",
+    "model_code": "all_steering",
+    "url": "https://vwts.ru/all_steering.html",
+    "pdf_page_url": "https://vwts.ru/all_steering.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Сервисное обслуживание",
+    "model_code": "page11",
+    "url": "https://vwts.ru/page11.html",
+    "pdf_page_url": "https://vwts.ru/page11.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Система охлаждения",
+    "model_code": "all_cooling",
+    "url": "https://vwts.ru/all_cooling.html",
+    "pdf_page_url": "https://vwts.ru/all_cooling.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Системы впрыска",
+    "model_code": "injector-vw-audi",
+    "url": "https://vwts.ru/injector-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/injector-vw-audi.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Системы зажигания",
+    "model_code": "all_ignition",
+    "url": "https://vwts.ru/all_ignition.html",
+    "pdf_page_url": "https://vwts.ru/all_ignition.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Топливная система",
+    "model_code": "fuel_system",
+    "url": "https://vwts.ru/fuel_system.html",
+    "pdf_page_url": "https://vwts.ru/fuel_system.html"
+  },
+  {
+    "brand": "SEAT",
+    "brand_key": "seat",
+    "model_name": "Тормозная система",
+    "model_code": "all_brake",
+    "url": "https://vwts.ru/all_brake.html",
+    "pdf_page_url": "https://vwts.ru/all_brake.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi",
+    "model_code": "list-audi-cars",
+    "url": "https://vwts.ru/list-audi-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-audi-cars.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi 80 B4 1991 - 1995",
+    "model_code": "audi_80_8c",
+    "url": "https://vwts.ru/audi_80_8c.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_8c.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi 80/90 B2 1979 - 1987",
+    "model_code": "audi_80_81",
+    "url": "https://vwts.ru/audi_80_81.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_81.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi 80/90 B3 1987 - 1990",
+    "model_code": "audi_80_8b",
+    "url": "https://vwts.ru/audi_80_8b.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_8b.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A1",
+    "model_code": "audi_a1_8x",
+    "url": "https://vwts.ru/audi_a1_8x.html",
+    "pdf_page_url": "https://vwts.ru/audi_a1_8x.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A2",
+    "model_code": "audi_a2_8z",
+    "url": "https://vwts.ru/audi_a2_8z.html",
+    "pdf_page_url": "https://vwts.ru/audi_a2_8z.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A3 1997 - 2003",
+    "model_code": "audi_a3_8l",
+    "url": "https://vwts.ru/audi_a3_8l.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8l.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A3 2003 - 2012",
+    "model_code": "audi_a3_8p",
+    "url": "https://vwts.ru/audi_a3_8p.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8p.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A3 2013 - 2020",
+    "model_code": "audi_a3_8v",
+    "url": "https://vwts.ru/audi_a3_8v.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8v.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A3 2021 -",
+    "model_code": "audi_a3_8y",
+    "url": "https://vwts.ru/audi_a3_8y.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8y.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A4 (B5) 1995 - 2001",
+    "model_code": "audi_a4_8d",
+    "url": "https://vwts.ru/audi_a4_8d.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8d.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A4 (B7) 2005 - 2008",
+    "model_code": "audi_a4_8e_8h",
+    "url": "https://vwts.ru/audi_a4_8e_8h.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8e_8h.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A4 (B8) 2008 - 2015",
+    "model_code": "audi_a4_8k",
+    "url": "https://vwts.ru/audi_a4_8k.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8k.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A4 (B9) 2016 -",
+    "model_code": "audi_a4_8w",
+    "url": "https://vwts.ru/audi_a4_8w.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8w.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A5 (8T) 2008 - 2016",
+    "model_code": "audi_a5_8t",
+    "url": "https://vwts.ru/audi_a5_8t.html",
+    "pdf_page_url": "https://vwts.ru/audi_a5_8t.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A5 (F5) 2017 -",
+    "model_code": "audi_a5_f5",
+    "url": "https://vwts.ru/audi_a5_f5.html",
+    "pdf_page_url": "https://vwts.ru/audi_a5_f5.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A6 (C4), Audi 100 1991 - 1997",
+    "model_code": "audi_a6_4a",
+    "url": "https://vwts.ru/audi_a6_4a.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4a.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A6 (C5) 1997 - 2005",
+    "model_code": "audi_a6_4b",
+    "url": "https://vwts.ru/audi_a6_4b.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4b.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A6 (C6) 2005 - 2011",
+    "model_code": "audi_a6_4f",
+    "url": "https://vwts.ru/audi_a6_4f.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4f.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A6 (C7) 2011 - 2017",
+    "model_code": "audi_a6_a7_4g",
+    "url": "https://vwts.ru/audi_a6_a7_4g.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_a7_4g.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A6 (C8) 2017 -",
+    "model_code": "audi_a6_4a_a7_4k",
+    "url": "https://vwts.ru/audi_a6_4a_a7_4k.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4a_a7_4k.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A8 (D2) 1994 - 2002",
+    "model_code": "audi_a8_4d",
+    "url": "https://vwts.ru/audi_a8_4d.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4d.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A8 (D3) 2003 - 2010",
+    "model_code": "audi_a8_4e",
+    "url": "https://vwts.ru/audi_a8_4e.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4e.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A8 (D4) 2010 - 2017",
+    "model_code": "audi_a8_4h",
+    "url": "https://vwts.ru/audi_a8_4h.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4h.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi A8 (D5) 2018 -",
+    "model_code": "audi_a8_4n",
+    "url": "https://vwts.ru/audi_a8_4n.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4n.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi e-tron",
+    "model_code": "audi_e-tron",
+    "url": "https://vwts.ru/audi_e-tron.html",
+    "pdf_page_url": "https://vwts.ru/audi_e-tron.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi Q2",
+    "model_code": "audi_q2_ga",
+    "url": "https://vwts.ru/audi_q2_ga.html",
+    "pdf_page_url": "https://vwts.ru/audi_q2_ga.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi Q3 2012 - 2018",
+    "model_code": "audi_q3_8u",
+    "url": "https://vwts.ru/audi_q3_8u.html",
+    "pdf_page_url": "https://vwts.ru/audi_q3_8u.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi Q3 2019 -",
+    "model_code": "audi_q3_f3",
+    "url": "https://vwts.ru/audi_q3_f3.html",
+    "pdf_page_url": "https://vwts.ru/audi_q3_f3.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi Q5 2009 - 2016",
+    "model_code": "audi_q5_8r",
+    "url": "https://vwts.ru/audi_q5_8r.html",
+    "pdf_page_url": "https://vwts.ru/audi_q5_8r.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi Q5 2017 -",
+    "model_code": "audi_q5_fy",
+    "url": "https://vwts.ru/audi_q5_fy.html",
+    "pdf_page_url": "https://vwts.ru/audi_q5_fy.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi Q7 2005 - 2015",
+    "model_code": "audi_q7_4l",
+    "url": "https://vwts.ru/audi_q7_4l.html",
+    "pdf_page_url": "https://vwts.ru/audi_q7_4l.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi Q7 2015 -",
+    "model_code": "audi_q7_4m",
+    "url": "https://vwts.ru/audi_q7_4m.html",
+    "pdf_page_url": "https://vwts.ru/audi_q7_4m.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi Q8",
+    "model_code": "audi_q8_4m",
+    "url": "https://vwts.ru/audi_q8_4m.html",
+    "pdf_page_url": "https://vwts.ru/audi_q8_4m.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi TT 1999 - 2006",
+    "model_code": "audi_tt_8n",
+    "url": "https://vwts.ru/audi_tt_8n.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt_8n.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi TT 2 2007 - 2014",
+    "model_code": "audi_tt_8j",
+    "url": "https://vwts.ru/audi_tt_8j.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt_8j.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Audi TT 3 2015 -",
+    "model_code": "audi_tt3_fv",
+    "url": "https://vwts.ru/audi_tt3_fv.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt3_fv.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "ELSA / ETKA / ETOS",
+    "model_code": "elsa-etka-etos",
+    "url": "https://vwts.ru/elsa-etka-etos.html",
+    "pdf_page_url": "https://vwts.ru/elsa-etka-etos.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Seat",
+    "model_code": "list-seat-cars",
+    "url": "https://vwts.ru/list-seat-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-seat-cars.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Arona",
+    "model_code": "seat_arona_kj",
+    "url": "https://vwts.ru/seat_arona_kj.html",
+    "pdf_page_url": "https://vwts.ru/seat_arona_kj.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Arosa",
+    "model_code": "seat_arosa_6h",
+    "url": "https://vwts.ru/seat_arosa_6h.html",
+    "pdf_page_url": "https://vwts.ru/seat_arosa_6h.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Ateca",
+    "model_code": "seat_ateca_kh7",
+    "url": "https://vwts.ru/seat_ateca_kh7.html",
+    "pdf_page_url": "https://vwts.ru/seat_ateca_kh7.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Ibiza 1 1985 - 1992",
+    "model_code": "seat_ibiza1_021a",
+    "url": "https://vwts.ru/seat_ibiza1_021a.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza1_021a.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Ibiza 2 1993 - 2002",
+    "model_code": "seat_ibiza2_6k",
+    "url": "https://vwts.ru/seat_ibiza2_6k.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza2_6k.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Ibiza 3 2002 - 2010",
+    "model_code": "seat_ibiza3_6l",
+    "url": "https://vwts.ru/seat_ibiza3_6l.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza3_6l.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Ibiza 4 2008 - 2017",
+    "model_code": "seat_ibiza4_6j",
+    "url": "https://vwts.ru/seat_ibiza4_6j.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza4_6j.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Ibiza 5 2018 -",
+    "model_code": "seat_ibiza5_kj",
+    "url": "https://vwts.ru/seat_ibiza5_kj.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza5_kj.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Leon 2 2006 - 2013",
+    "model_code": "seat_leon2_1p",
+    "url": "https://vwts.ru/seat_leon2_1p.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon2_1p.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Leon 3 2014 -",
+    "model_code": "seat_leon3_5f",
+    "url": "https://vwts.ru/seat_leon3_5f.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon3_5f.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Toledo 1 1991 - 1999",
+    "model_code": "seat_toledo_1l",
+    "url": "https://vwts.ru/seat_toledo_1l.html",
+    "pdf_page_url": "https://vwts.ru/seat_toledo_1l.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Toledo 2 1998 - 2004",
+    "model_code": "seat_leon1_1m",
+    "url": "https://vwts.ru/seat_leon1_1m.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon1_1m.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Toledo 3 2005 - 2010",
+    "model_code": "seat_altea_5p",
+    "url": "https://vwts.ru/seat_altea_5p.html",
+    "pdf_page_url": "https://vwts.ru/seat_altea_5p.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "SEAT Toledo 4 2013 -",
+    "model_code": "seat_toledo_kg",
+    "url": "https://vwts.ru/seat_toledo_kg.html",
+    "pdf_page_url": "https://vwts.ru/seat_toledo_kg.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda",
+    "model_code": "list-skoda-cars",
+    "url": "https://vwts.ru/list-skoda-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-skoda-cars.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Citigo",
+    "model_code": "sk_citigo_nf",
+    "url": "https://vwts.ru/sk_citigo_nf.html",
+    "pdf_page_url": "https://vwts.ru/sk_citigo_nf.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Fabia 1 2000 - 2007",
+    "model_code": "sk_fabia1_6y",
+    "url": "https://vwts.ru/sk_fabia1_6y.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia1_6y.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Fabia 2 2007 - 2015",
+    "model_code": "sk_fabia2_5j",
+    "url": "https://vwts.ru/sk_fabia2_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia2_5j.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Fabia 3 2015 - 2021",
+    "model_code": "sk_fabia3_nj",
+    "url": "https://vwts.ru/sk_fabia3_nj.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia3_nj.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Fabia 4 2022 -",
+    "model_code": "sk_fabia4",
+    "url": "https://vwts.ru/sk_fabia4.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia4.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Felicia",
+    "model_code": "sk_felicia_791",
+    "url": "https://vwts.ru/sk_felicia_791.html",
+    "pdf_page_url": "https://vwts.ru/sk_felicia_791.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Kamiq",
+    "model_code": "sk_kamiq_nw",
+    "url": "sk_kamiq_nw.html",
+    "pdf_page_url": "sk_kamiq_nw.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Kamiq",
+    "model_code": "sk_kamiq_nw",
+    "url": "https://vwts.ru/sk_kamiq_nw.html",
+    "pdf_page_url": "https://vwts.ru/sk_kamiq_nw.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Karoq",
+    "model_code": "sk_karoq_nu",
+    "url": "https://vwts.ru/sk_karoq_nu.html",
+    "pdf_page_url": "https://vwts.ru/sk_karoq_nu.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Kodiaq 2 2024 -",
+    "model_code": "sk_kodiaq_2",
+    "url": "https://vwts.ru/sk_kodiaq_2.html",
+    "pdf_page_url": "https://vwts.ru/sk_kodiaq_2.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Kodiaq 2017 - 2023",
+    "model_code": "sk_kodiaq_ns",
+    "url": "https://vwts.ru/sk_kodiaq_ns.html",
+    "pdf_page_url": "https://vwts.ru/sk_kodiaq_ns.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Octavia 1 А4 1997 - 2010",
+    "model_code": "sk_octavia1_1u",
+    "url": "https://vwts.ru/sk_octavia1_1u.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia1_1u.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Octavia 2 А5 2004 - 2013",
+    "model_code": "sk_octavia2_1z",
+    "url": "https://vwts.ru/sk_octavia2_1z.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia2_1z.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Octavia 3 А7 2013 - 2020",
+    "model_code": "sk_octavia3_5e",
+    "url": "https://vwts.ru/sk_octavia3_5e.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia3_5e.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Octavia 4 А8 2020 -",
+    "model_code": "sk_octavia4_nx",
+    "url": "https://vwts.ru/sk_octavia4_nx.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia4_nx.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Rapid",
+    "model_code": "sk_rapid_5j",
+    "url": "https://vwts.ru/sk_rapid_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_rapid_5j.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Roomster",
+    "model_code": "sk_roomster_5j",
+    "url": "https://vwts.ru/sk_roomster_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_roomster_5j.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Scala",
+    "model_code": "sk_scala_nw",
+    "url": "https://vwts.ru/sk_scala_nw.html",
+    "pdf_page_url": "https://vwts.ru/sk_scala_nw.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Superb 1 2002 - 2008",
+    "model_code": "sk_superb1_3u",
+    "url": "https://vwts.ru/sk_superb1_3u.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb1_3u.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Superb 2 2008 - 2015",
+    "model_code": "sk_superb2_3t",
+    "url": "https://vwts.ru/sk_superb2_3t.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb2_3t.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Superb 3 2015 - 2023",
+    "model_code": "sk_superb3_3v",
+    "url": "https://vwts.ru/sk_superb3_3v.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb3_3v.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Superb 4 2024 -",
+    "model_code": "sk_superb4",
+    "url": "https://vwts.ru/sk_superb4.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb4.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Skoda Yeti",
+    "model_code": "sk_yeti_5l",
+    "url": "https://vwts.ru/sk_yeti_5l.html",
+    "pdf_page_url": "https://vwts.ru/sk_yeti_5l.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Amarok 2015 - 2022",
+    "model_code": "vw_amarok_2h",
+    "url": "https://vwts.ru/vw_amarok_2h.html",
+    "pdf_page_url": "https://vwts.ru/vw_amarok_2h.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Amarok 2023 -",
+    "model_code": "vw_amarok_2023",
+    "url": "https://vwts.ru/vw_amarok_2023.html",
+    "pdf_page_url": "https://vwts.ru/vw_amarok_2023.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Arteon",
+    "model_code": "vw_arteon_3h",
+    "url": "https://vwts.ru/vw_arteon_3h.html",
+    "pdf_page_url": "https://vwts.ru/vw_arteon_3h.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Beetle (Type 1) 1938 - 2003",
+    "model_code": "vw_beetle",
+    "url": "https://vwts.ru/vw_beetle.html",
+    "pdf_page_url": "https://vwts.ru/vw_beetle.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Beetle 2012 -",
+    "model_code": "vw_beetle_5c",
+    "url": "https://vwts.ru/vw_beetle_5c.html",
+    "pdf_page_url": "https://vwts.ru/vw_beetle_5c.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Caddy 1 1992 - 1994",
+    "model_code": "vw_caddy_14",
+    "url": "https://vwts.ru/vw_caddy_14.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_14.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Caddy 2 1995 - 2003",
+    "model_code": "vw_caddy_9k",
+    "url": "https://vwts.ru/vw_caddy_9k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_9k.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Caddy 3 2004 - 2010",
+    "model_code": "vw_caddy_2k",
+    "url": "https://vwts.ru/vw_caddy_2k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_2k.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Caddy 3 2011 - 2015",
+    "model_code": "vw_caddy3_2c",
+    "url": "https://vwts.ru/vw_caddy3_2c.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy3_2c.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Caddy 4 2016 - 2020",
+    "model_code": "vw_caddy4_3k",
+    "url": "https://vwts.ru/vw_caddy4_3k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy4_3k.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Caddy 5 2021 -",
+    "model_code": "vw_caddy_5",
+    "url": "https://vwts.ru/vw_caddy_5.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_5.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Corrado",
+    "model_code": "vw_corrado_53i",
+    "url": "https://vwts.ru/vw_corrado_53i.html",
+    "pdf_page_url": "https://vwts.ru/vw_corrado_53i.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Crafter 2 2017 -",
+    "model_code": "vw_crafter_sy",
+    "url": "https://vwts.ru/vw_crafter_sy.html",
+    "pdf_page_url": "https://vwts.ru/vw_crafter_sy.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Crafter 2006 - 2016",
+    "model_code": "vw_crafter_2f",
+    "url": "https://vwts.ru/vw_crafter_2f.html",
+    "pdf_page_url": "https://vwts.ru/vw_crafter_2f.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Eos",
+    "model_code": "vw_eos_1f",
+    "url": "https://vwts.ru/vw_eos_1f.html",
+    "pdf_page_url": "https://vwts.ru/vw_eos_1f.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Fox",
+    "model_code": "vw_fox_5z",
+    "url": "vw_fox_5z.html",
+    "pdf_page_url": "vw_fox_5z.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Gol / Pointer",
+    "model_code": "vw_gol_9x_5x_5w",
+    "url": "https://vwts.ru/vw_gol_9x_5x_5w.html",
+    "pdf_page_url": "https://vwts.ru/vw_gol_9x_5x_5w.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf 1, Jetta 1 1974 - 1984",
+    "model_code": "vw_golf1_17",
+    "url": "https://vwts.ru/vw_golf1_17.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf1_17.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf 2, Jetta 2 1984 - 1992",
+    "model_code": "vw_golf2_19e",
+    "url": "https://vwts.ru/vw_golf2_19e.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf2_19e.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf 3, Vento 1992 - 1998",
+    "model_code": "vw_golf3_1h",
+    "url": "https://vwts.ru/vw_golf3_1h.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf3_1h.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf 4, Bora 1997 - 2004",
+    "model_code": "vw_golf4_1j",
+    "url": "https://vwts.ru/vw_golf4_1j.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf4_1j.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf 5, Jetta 5 2004 - 2009",
+    "model_code": "vw_golf5_1k",
+    "url": "https://vwts.ru/vw_golf5_1k.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf5_1k.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf 6, Jetta 6 2009 - 2017",
+    "model_code": "vw_golf6_5k",
+    "url": "https://vwts.ru/vw_golf6_5k.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf6_5k.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf 7 2013 - 2019",
+    "model_code": "vw_golf7_5g",
+    "url": "https://vwts.ru/vw_golf7_5g.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf7_5g.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf 8 2020 -",
+    "model_code": "vw_golf8_cd",
+    "url": "https://vwts.ru/vw_golf8_cd.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf8_cd.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Golf Sportsvan 2014 -",
+    "model_code": "vw_golf_sportsvan_am",
+    "url": "https://vwts.ru/vw_golf_sportsvan_am.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf_sportsvan_am.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW ID.3",
+    "model_code": "vw_id3_e11",
+    "url": "https://vwts.ru/vw_id3_e11.html",
+    "pdf_page_url": "https://vwts.ru/vw_id3_e11.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW ID.4 / ID.5",
+    "model_code": "vw_id4_id5",
+    "url": "https://vwts.ru/vw_id4_id5.html",
+    "pdf_page_url": "https://vwts.ru/vw_id4_id5.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW ID.7",
+    "model_code": "vw_id7",
+    "url": "https://vwts.ru/vw_id7.html",
+    "pdf_page_url": "https://vwts.ru/vw_id7.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Jetta 7 2019 -",
+    "model_code": "vw_jetta_7",
+    "url": "https://vwts.ru/vw_jetta_7.html",
+    "pdf_page_url": "https://vwts.ru/vw_jetta_7.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW LT",
+    "model_code": "vw_lt_2d",
+    "url": "https://vwts.ru/vw_lt_2d.html",
+    "pdf_page_url": "https://vwts.ru/vw_lt_2d.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Lupo",
+    "model_code": "vw_lupo_6x_6e",
+    "url": "https://vwts.ru/vw_lupo_6x_6e.html",
+    "pdf_page_url": "https://vwts.ru/vw_lupo_6x_6e.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW New Beetle 1998 - 2011",
+    "model_code": "vw_newbeetle_1c_1y_9c",
+    "url": "https://vwts.ru/vw_newbeetle_1c_1y_9c.html",
+    "pdf_page_url": "https://vwts.ru/vw_newbeetle_1c_1y_9c.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B2 1982 - 1988",
+    "model_code": "vw_passat2_32b",
+    "url": "https://vwts.ru/vw_passat2_32b.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat2_32b.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B3 1988 - 1994",
+    "model_code": "vw_passat3_35i",
+    "url": "https://vwts.ru/vw_passat3_35i.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat3_35i.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B4 1994 - 1997",
+    "model_code": "vw_passat4_35i",
+    "url": "https://vwts.ru/vw_passat4_35i.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat4_35i.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B5 1997 - 2001",
+    "model_code": "vw_passat5_3b",
+    "url": "https://vwts.ru/vw_passat5_3b.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat5_3b.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B5 GP 2001 - 2005",
+    "model_code": "vw_passat5_5_3bg",
+    "url": "https://vwts.ru/vw_passat5_5_3bg.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat5_5_3bg.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B6 2006 - 2010",
+    "model_code": "vw_passat6_3c",
+    "url": "https://vwts.ru/vw_passat6_3c.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat6_3c.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B7 2011 - 2015",
+    "model_code": "vw_passat7_362",
+    "url": "https://vwts.ru/vw_passat7_362.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat7_362.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B8 2015 - 2023",
+    "model_code": "vw_passat8_3g",
+    "url": "https://vwts.ru/vw_passat8_3g.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat8_3g.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Passat B9 2024 -",
+    "model_code": "vw_passat9",
+    "url": "https://vwts.ru/vw_passat9.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat9.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Phaeton",
+    "model_code": "vw_phaeton_3d",
+    "url": "https://vwts.ru/vw_phaeton_3d.html",
+    "pdf_page_url": "https://vwts.ru/vw_phaeton_3d.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Polo 1 1975 - 1981",
+    "model_code": "vw_polo1_86",
+    "url": "https://vwts.ru/vw_polo1_86.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo1_86.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Polo 2 1982 - 1994",
+    "model_code": "vw_polo2_80",
+    "url": "https://vwts.ru/vw_polo2_80.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo2_80.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Polo 3 1995 - 2001",
+    "model_code": "vw_polo3_6n_6kv",
+    "url": "https://vwts.ru/vw_polo3_6n_6kv.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo3_6n_6kv.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Polo 4 2002 - 2009",
+    "model_code": "vw_polo4_9n",
+    "url": "https://vwts.ru/vw_polo4_9n.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo4_9n.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Polo 5 2010 - 2017",
+    "model_code": "vw_polo5_6r",
+    "url": "https://vwts.ru/vw_polo5_6r.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo5_6r.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Polo 6 2018 -",
+    "model_code": "vw_polo6_aw",
+    "url": "https://vwts.ru/vw_polo6_aw.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo6_aw.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Polo Sedan 2011 - 2015",
+    "model_code": "vw_polo_sedan_612",
+    "url": "https://vwts.ru/vw_polo_sedan_612.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo_sedan_612.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Scirocco 1974 - 1981",
+    "model_code": "vw_scirocco1_53",
+    "url": "https://vwts.ru/vw_scirocco1_53.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco1_53.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Scirocco 1981 - 1992",
+    "model_code": "vw_scirocco2_53b",
+    "url": "https://vwts.ru/vw_scirocco2_53b.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco2_53b.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Scirocco 2008 - 2015",
+    "model_code": "vw_scirocco3_13",
+    "url": "https://vwts.ru/vw_scirocco3_13.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco3_13.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Sharan 1995 - 2010",
+    "model_code": "vw_sharan_7m",
+    "url": "https://vwts.ru/vw_sharan_7m.html",
+    "pdf_page_url": "https://vwts.ru/vw_sharan_7m.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Sharan 2 2011 -",
+    "model_code": "vw_sharan_7n",
+    "url": "https://vwts.ru/vw_sharan_7n.html",
+    "pdf_page_url": "https://vwts.ru/vw_sharan_7n.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW T-Cross",
+    "model_code": "vw_t-cross_c1",
+    "url": "https://vwts.ru/vw_t-cross_c1.html",
+    "pdf_page_url": "https://vwts.ru/vw_t-cross_c1.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW T-Roc",
+    "model_code": "vw_t-roc_a1",
+    "url": "https://vwts.ru/vw_t-roc_a1.html",
+    "pdf_page_url": "https://vwts.ru/vw_t-roc_a1.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Taos",
+    "model_code": "vw_taos",
+    "url": "https://vwts.ru/vw_taos.html",
+    "pdf_page_url": "https://vwts.ru/vw_taos.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Teramont",
+    "model_code": "vw_teramont_0a",
+    "url": "https://vwts.ru/vw_teramont_0a.html",
+    "pdf_page_url": "https://vwts.ru/vw_teramont_0a.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Tiguan 2 2016 - 2023",
+    "model_code": "vw_tiguan2_ad",
+    "url": "https://vwts.ru/vw_tiguan2_ad.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan2_ad.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Tiguan 2008 - 2015",
+    "model_code": "vw_tiguan_5n",
+    "url": "https://vwts.ru/vw_tiguan_5n.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan_5n.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Tiguan 3 2024 -",
+    "model_code": "vw_tiguan3",
+    "url": "https://vwts.ru/vw_tiguan3.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan3.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Touareg  2003 - 2010",
+    "model_code": "vw_touareg_7l",
+    "url": "https://vwts.ru/vw_touareg_7l.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_7l.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Touareg 2 2011 - 2017",
+    "model_code": "vw_touareg_7p",
+    "url": "https://vwts.ru/vw_touareg_7p.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_7p.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Touareg 3 2018 -",
+    "model_code": "vw_touareg_cr",
+    "url": "https://vwts.ru/vw_touareg_cr.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_cr.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Touran 2 2016 -",
+    "model_code": "vw_touran2_5t",
+    "url": "https://vwts.ru/vw_touran2_5t.html",
+    "pdf_page_url": "https://vwts.ru/vw_touran2_5t.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Touran 2003 - 2015",
+    "model_code": "vw_touran_1t",
+    "url": "https://vwts.ru/vw_touran_1t.html",
+    "pdf_page_url": "https://vwts.ru/vw_touran_1t.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Transporter T3 1980 - 1992",
+    "model_code": "vw_t3_25",
+    "url": "https://vwts.ru/vw_t3_25.html",
+    "pdf_page_url": "https://vwts.ru/vw_t3_25.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Transporter T4 1991 - 2003",
+    "model_code": "vw_t4_7d",
+    "url": "https://vwts.ru/vw_t4_7d.html",
+    "pdf_page_url": "https://vwts.ru/vw_t4_7d.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Transporter T5 2003 - 2015",
+    "model_code": "vw_t5_7h",
+    "url": "https://vwts.ru/vw_t5_7h.html",
+    "pdf_page_url": "https://vwts.ru/vw_t5_7h.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Transporter T6 2015 -",
+    "model_code": "vw_t6_sg",
+    "url": "https://vwts.ru/vw_t6_sg.html",
+    "pdf_page_url": "https://vwts.ru/vw_t6_sg.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Type 2 (T1) 1950 - 1967",
+    "model_code": "vw_t1_14",
+    "url": "https://vwts.ru/vw_t1_14.html",
+    "pdf_page_url": "https://vwts.ru/vw_t1_14.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Type 2 (T2) 1968 - 1979",
+    "model_code": "vw_t2_22",
+    "url": "https://vwts.ru/vw_t2_22.html",
+    "pdf_page_url": "https://vwts.ru/vw_t2_22.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "VW Up!",
+    "model_code": "vw_up_1s",
+    "url": "https://vwts.ru/vw_up_1s.html",
+    "pdf_page_url": "https://vwts.ru/vw_up_1s.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Без платформ",
+    "model_code": "pl_other",
+    "url": "https://vwts.ru/pl_other.html",
+    "pdf_page_url": "https://vwts.ru/pl_other.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Выхлопная система",
+    "model_code": "all_exhaust",
+    "url": "https://vwts.ru/all_exhaust.html",
+    "pdf_page_url": "https://vwts.ru/all_exhaust.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Двигатели",
+    "model_code": "dvigateli-vw-audi",
+    "url": "https://vwts.ru/dvigateli-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/dvigateli-vw-audi.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Диагностика",
+    "model_code": "diag",
+    "url": "https://vwts.ru/diag.html",
+    "pdf_page_url": "https://vwts.ru/diag.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Диагностика VAG",
+    "model_code": "diagnostika-vw-audi-skoda",
+    "url": "https://vwts.ru/diagnostika-vw-audi-skoda.html",
+    "pdf_page_url": "https://vwts.ru/diagnostika-vw-audi-skoda.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Запчасти, сервисы, разборки",
+    "model_code": "page13",
+    "url": "https://vwts.ru/page13.html",
+    "pdf_page_url": "https://vwts.ru/page13.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "История и модели VW",
+    "model_code": "vw-history-and-models",
+    "url": "https://vwts.ru/vw-history-and-models.html",
+    "pdf_page_url": "https://vwts.ru/vw-history-and-models.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Как здесь найти нужную информацию?",
+    "model_code": "how_work",
+    "url": "https://vwts.ru/how_work.html",
+    "pdf_page_url": "https://vwts.ru/how_work.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Клубная карта, скидки",
+    "model_code": "discount",
+    "url": "https://vwts.ru/discount.html",
+    "pdf_page_url": "https://vwts.ru/discount.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Коробки передач",
+    "model_code": "transmission-vw-audi",
+    "url": "https://vwts.ru/transmission-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/transmission-vw-audi.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Кузов",
+    "model_code": "all_body",
+    "url": "https://vwts.ru/all_body.html",
+    "pdf_page_url": "https://vwts.ru/all_body.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Подвеска",
+    "model_code": "all_suspension",
+    "url": "https://vwts.ru/all_suspension.html",
+    "pdf_page_url": "https://vwts.ru/all_suspension.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Покупка Volkswagen",
+    "model_code": "page12",
+    "url": "https://vwts.ru/page12.html",
+    "pdf_page_url": "https://vwts.ru/page12.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Полезные ссылки",
+    "model_code": "page15",
+    "url": "https://vwts.ru/page15.html",
+    "pdf_page_url": "https://vwts.ru/page15.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Расшифровка заводской комплектации автомобиля (англ.)",
+    "model_code": "complect",
+    "url": "https://vwts.ru/complect.html",
+    "pdf_page_url": "https://vwts.ru/complect.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Рулевое управление",
+    "model_code": "all_steering",
+    "url": "https://vwts.ru/all_steering.html",
+    "pdf_page_url": "https://vwts.ru/all_steering.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Сервисное обслуживание",
+    "model_code": "page11",
+    "url": "https://vwts.ru/page11.html",
+    "pdf_page_url": "https://vwts.ru/page11.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Система охлаждения",
+    "model_code": "all_cooling",
+    "url": "https://vwts.ru/all_cooling.html",
+    "pdf_page_url": "https://vwts.ru/all_cooling.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Системы впрыска",
+    "model_code": "injector-vw-audi",
+    "url": "https://vwts.ru/injector-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/injector-vw-audi.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Системы зажигания",
+    "model_code": "all_ignition",
+    "url": "https://vwts.ru/all_ignition.html",
+    "pdf_page_url": "https://vwts.ru/all_ignition.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Топливная система",
+    "model_code": "fuel_system",
+    "url": "https://vwts.ru/fuel_system.html",
+    "pdf_page_url": "https://vwts.ru/fuel_system.html"
+  },
+  {
+    "brand": "Skoda",
+    "brand_key": "skoda",
+    "model_name": "Тормозная система",
+    "model_code": "all_brake",
+    "url": "https://vwts.ru/all_brake.html",
+    "pdf_page_url": "https://vwts.ru/all_brake.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi",
+    "model_code": "list-audi-cars",
+    "url": "https://vwts.ru/list-audi-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-audi-cars.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi 80 B4 1991 - 1995",
+    "model_code": "audi_80_8c",
+    "url": "https://vwts.ru/audi_80_8c.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_8c.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi 80/90 B2 1979 - 1987",
+    "model_code": "audi_80_81",
+    "url": "https://vwts.ru/audi_80_81.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_81.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi 80/90 B3 1987 - 1990",
+    "model_code": "audi_80_8b",
+    "url": "https://vwts.ru/audi_80_8b.html",
+    "pdf_page_url": "https://vwts.ru/audi_80_8b.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A1",
+    "model_code": "audi_a1_8x",
+    "url": "https://vwts.ru/audi_a1_8x.html",
+    "pdf_page_url": "https://vwts.ru/audi_a1_8x.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A2",
+    "model_code": "audi_a2_8z",
+    "url": "https://vwts.ru/audi_a2_8z.html",
+    "pdf_page_url": "https://vwts.ru/audi_a2_8z.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A3 1997 - 2003",
+    "model_code": "audi_a3_8l",
+    "url": "https://vwts.ru/audi_a3_8l.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8l.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A3 2003 - 2012",
+    "model_code": "audi_a3_8p",
+    "url": "https://vwts.ru/audi_a3_8p.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8p.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A3 2013 - 2020",
+    "model_code": "audi_a3_8v",
+    "url": "https://vwts.ru/audi_a3_8v.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8v.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A3 2021 -",
+    "model_code": "audi_a3_8y",
+    "url": "https://vwts.ru/audi_a3_8y.html",
+    "pdf_page_url": "https://vwts.ru/audi_a3_8y.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A4 (B5) 1995 - 2001",
+    "model_code": "audi_a4_8d",
+    "url": "https://vwts.ru/audi_a4_8d.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8d.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A4 (B7) 2005 - 2008",
+    "model_code": "audi_a4_8e_8h",
+    "url": "https://vwts.ru/audi_a4_8e_8h.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8e_8h.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A4 (B8) 2008 - 2015",
+    "model_code": "audi_a4_8k",
+    "url": "https://vwts.ru/audi_a4_8k.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8k.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A4 (B9) 2016 -",
+    "model_code": "audi_a4_8w",
+    "url": "https://vwts.ru/audi_a4_8w.html",
+    "pdf_page_url": "https://vwts.ru/audi_a4_8w.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A5 (8T) 2008 - 2016",
+    "model_code": "audi_a5_8t",
+    "url": "https://vwts.ru/audi_a5_8t.html",
+    "pdf_page_url": "https://vwts.ru/audi_a5_8t.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A5 (F5) 2017 -",
+    "model_code": "audi_a5_f5",
+    "url": "https://vwts.ru/audi_a5_f5.html",
+    "pdf_page_url": "https://vwts.ru/audi_a5_f5.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A6 (C4), Audi 100 1991 - 1997",
+    "model_code": "audi_a6_4a",
+    "url": "https://vwts.ru/audi_a6_4a.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4a.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A6 (C5) 1997 - 2005",
+    "model_code": "audi_a6_4b",
+    "url": "https://vwts.ru/audi_a6_4b.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4b.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A6 (C6) 2005 - 2011",
+    "model_code": "audi_a6_4f",
+    "url": "https://vwts.ru/audi_a6_4f.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4f.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A6 (C7) 2011 - 2017",
+    "model_code": "audi_a6_a7_4g",
+    "url": "https://vwts.ru/audi_a6_a7_4g.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_a7_4g.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A6 (C8) 2017 -",
+    "model_code": "audi_a6_4a_a7_4k",
+    "url": "https://vwts.ru/audi_a6_4a_a7_4k.html",
+    "pdf_page_url": "https://vwts.ru/audi_a6_4a_a7_4k.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A8 (D2) 1994 - 2002",
+    "model_code": "audi_a8_4d",
+    "url": "https://vwts.ru/audi_a8_4d.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4d.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A8 (D3) 2003 - 2010",
+    "model_code": "audi_a8_4e",
+    "url": "https://vwts.ru/audi_a8_4e.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4e.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A8 (D4) 2010 - 2017",
+    "model_code": "audi_a8_4h",
+    "url": "https://vwts.ru/audi_a8_4h.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4h.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi A8 (D5) 2018 -",
+    "model_code": "audi_a8_4n",
+    "url": "https://vwts.ru/audi_a8_4n.html",
+    "pdf_page_url": "https://vwts.ru/audi_a8_4n.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi e-tron",
+    "model_code": "audi_e-tron",
+    "url": "https://vwts.ru/audi_e-tron.html",
+    "pdf_page_url": "https://vwts.ru/audi_e-tron.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi Q2",
+    "model_code": "audi_q2_ga",
+    "url": "https://vwts.ru/audi_q2_ga.html",
+    "pdf_page_url": "https://vwts.ru/audi_q2_ga.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi Q3 2012 - 2018",
+    "model_code": "audi_q3_8u",
+    "url": "https://vwts.ru/audi_q3_8u.html",
+    "pdf_page_url": "https://vwts.ru/audi_q3_8u.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi Q3 2019 -",
+    "model_code": "audi_q3_f3",
+    "url": "https://vwts.ru/audi_q3_f3.html",
+    "pdf_page_url": "https://vwts.ru/audi_q3_f3.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi Q5 2009 - 2016",
+    "model_code": "audi_q5_8r",
+    "url": "https://vwts.ru/audi_q5_8r.html",
+    "pdf_page_url": "https://vwts.ru/audi_q5_8r.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi Q5 2017 -",
+    "model_code": "audi_q5_fy",
+    "url": "https://vwts.ru/audi_q5_fy.html",
+    "pdf_page_url": "https://vwts.ru/audi_q5_fy.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi Q7 2005 - 2015",
+    "model_code": "audi_q7_4l",
+    "url": "https://vwts.ru/audi_q7_4l.html",
+    "pdf_page_url": "https://vwts.ru/audi_q7_4l.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi Q7 2015 -",
+    "model_code": "audi_q7_4m",
+    "url": "https://vwts.ru/audi_q7_4m.html",
+    "pdf_page_url": "https://vwts.ru/audi_q7_4m.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi Q8",
+    "model_code": "audi_q8_4m",
+    "url": "https://vwts.ru/audi_q8_4m.html",
+    "pdf_page_url": "https://vwts.ru/audi_q8_4m.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi TT 1999 - 2006",
+    "model_code": "audi_tt_8n",
+    "url": "https://vwts.ru/audi_tt_8n.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt_8n.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi TT 2 2007 - 2014",
+    "model_code": "audi_tt_8j",
+    "url": "https://vwts.ru/audi_tt_8j.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt_8j.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Audi TT 3 2015 -",
+    "model_code": "audi_tt3_fv",
+    "url": "https://vwts.ru/audi_tt3_fv.html",
+    "pdf_page_url": "https://vwts.ru/audi_tt3_fv.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "ELSA / ETKA / ETOS",
+    "model_code": "elsa-etka-etos",
+    "url": "https://vwts.ru/elsa-etka-etos.html",
+    "pdf_page_url": "https://vwts.ru/elsa-etka-etos.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Seat",
+    "model_code": "list-seat-cars",
+    "url": "https://vwts.ru/list-seat-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-seat-cars.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Arona",
+    "model_code": "seat_arona_kj",
+    "url": "https://vwts.ru/seat_arona_kj.html",
+    "pdf_page_url": "https://vwts.ru/seat_arona_kj.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Arosa",
+    "model_code": "seat_arosa_6h",
+    "url": "https://vwts.ru/seat_arosa_6h.html",
+    "pdf_page_url": "https://vwts.ru/seat_arosa_6h.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Ateca",
+    "model_code": "seat_ateca_kh7",
+    "url": "https://vwts.ru/seat_ateca_kh7.html",
+    "pdf_page_url": "https://vwts.ru/seat_ateca_kh7.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Ibiza 1 1985 - 1992",
+    "model_code": "seat_ibiza1_021a",
+    "url": "https://vwts.ru/seat_ibiza1_021a.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza1_021a.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Ibiza 2 1993 - 2002",
+    "model_code": "seat_ibiza2_6k",
+    "url": "https://vwts.ru/seat_ibiza2_6k.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza2_6k.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Ibiza 3 2002 - 2010",
+    "model_code": "seat_ibiza3_6l",
+    "url": "https://vwts.ru/seat_ibiza3_6l.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza3_6l.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Ibiza 4 2008 - 2017",
+    "model_code": "seat_ibiza4_6j",
+    "url": "https://vwts.ru/seat_ibiza4_6j.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza4_6j.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Ibiza 5 2018 -",
+    "model_code": "seat_ibiza5_kj",
+    "url": "https://vwts.ru/seat_ibiza5_kj.html",
+    "pdf_page_url": "https://vwts.ru/seat_ibiza5_kj.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Leon 2 2006 - 2013",
+    "model_code": "seat_leon2_1p",
+    "url": "https://vwts.ru/seat_leon2_1p.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon2_1p.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Leon 3 2014 -",
+    "model_code": "seat_leon3_5f",
+    "url": "https://vwts.ru/seat_leon3_5f.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon3_5f.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Toledo 1 1991 - 1999",
+    "model_code": "seat_toledo_1l",
+    "url": "https://vwts.ru/seat_toledo_1l.html",
+    "pdf_page_url": "https://vwts.ru/seat_toledo_1l.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Toledo 2 1998 - 2004",
+    "model_code": "seat_leon1_1m",
+    "url": "https://vwts.ru/seat_leon1_1m.html",
+    "pdf_page_url": "https://vwts.ru/seat_leon1_1m.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Toledo 3 2005 - 2010",
+    "model_code": "seat_altea_5p",
+    "url": "https://vwts.ru/seat_altea_5p.html",
+    "pdf_page_url": "https://vwts.ru/seat_altea_5p.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "SEAT Toledo 4 2013 -",
+    "model_code": "seat_toledo_kg",
+    "url": "https://vwts.ru/seat_toledo_kg.html",
+    "pdf_page_url": "https://vwts.ru/seat_toledo_kg.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda",
+    "model_code": "list-skoda-cars",
+    "url": "https://vwts.ru/list-skoda-cars.html",
+    "pdf_page_url": "https://vwts.ru/list-skoda-cars.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Citigo",
+    "model_code": "sk_citigo_nf",
+    "url": "https://vwts.ru/sk_citigo_nf.html",
+    "pdf_page_url": "https://vwts.ru/sk_citigo_nf.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Fabia 1 2000 - 2007",
+    "model_code": "sk_fabia1_6y",
+    "url": "https://vwts.ru/sk_fabia1_6y.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia1_6y.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Fabia 2 2007 - 2015",
+    "model_code": "sk_fabia2_5j",
+    "url": "https://vwts.ru/sk_fabia2_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia2_5j.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Fabia 3 2015 - 2021",
+    "model_code": "sk_fabia3_nj",
+    "url": "https://vwts.ru/sk_fabia3_nj.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia3_nj.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Fabia 4 2022 -",
+    "model_code": "sk_fabia4",
+    "url": "https://vwts.ru/sk_fabia4.html",
+    "pdf_page_url": "https://vwts.ru/sk_fabia4.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Felicia",
+    "model_code": "sk_felicia_791",
+    "url": "https://vwts.ru/sk_felicia_791.html",
+    "pdf_page_url": "https://vwts.ru/sk_felicia_791.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Kamiq",
+    "model_code": "sk_kamiq_nw",
+    "url": "https://vwts.ru/sk_kamiq_nw.html",
+    "pdf_page_url": "https://vwts.ru/sk_kamiq_nw.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Karoq",
+    "model_code": "sk_karoq_nu",
+    "url": "https://vwts.ru/sk_karoq_nu.html",
+    "pdf_page_url": "https://vwts.ru/sk_karoq_nu.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Kodiaq 2 2024 -",
+    "model_code": "sk_kodiaq_2",
+    "url": "https://vwts.ru/sk_kodiaq_2.html",
+    "pdf_page_url": "https://vwts.ru/sk_kodiaq_2.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Kodiaq 2017 - 2023",
+    "model_code": "sk_kodiaq_ns",
+    "url": "https://vwts.ru/sk_kodiaq_ns.html",
+    "pdf_page_url": "https://vwts.ru/sk_kodiaq_ns.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Octavia 1 А4 1997 - 2010",
+    "model_code": "sk_octavia1_1u",
+    "url": "https://vwts.ru/sk_octavia1_1u.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia1_1u.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Octavia 2 А5 2004 - 2013",
+    "model_code": "sk_octavia2_1z",
+    "url": "https://vwts.ru/sk_octavia2_1z.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia2_1z.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Octavia 3 А7 2013 - 2019",
+    "model_code": "sk_octavia3_5e",
+    "url": "https://vwts.ru/sk_octavia3_5e.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia3_5e.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Octavia 4 А8 2020 -",
+    "model_code": "sk_octavia4_nx",
+    "url": "https://vwts.ru/sk_octavia4_nx.html",
+    "pdf_page_url": "https://vwts.ru/sk_octavia4_nx.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Rapid",
+    "model_code": "sk_rapid_5j",
+    "url": "https://vwts.ru/sk_rapid_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_rapid_5j.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Roomster",
+    "model_code": "sk_roomster_5j",
+    "url": "https://vwts.ru/sk_roomster_5j.html",
+    "pdf_page_url": "https://vwts.ru/sk_roomster_5j.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Scala",
+    "model_code": "sk_scala_nw",
+    "url": "https://vwts.ru/sk_scala_nw.html",
+    "pdf_page_url": "https://vwts.ru/sk_scala_nw.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Superb 1 2002 - 2008",
+    "model_code": "sk_superb1_3u",
+    "url": "https://vwts.ru/sk_superb1_3u.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb1_3u.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Superb 2 2008 - 2015",
+    "model_code": "sk_superb2_3t",
+    "url": "https://vwts.ru/sk_superb2_3t.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb2_3t.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Superb 3 2015 -",
+    "model_code": "sk_superb3_3v",
+    "url": "https://vwts.ru/sk_superb3_3v.html",
+    "pdf_page_url": "https://vwts.ru/sk_superb3_3v.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Skoda Yeti",
+    "model_code": "sk_yeti_5l",
+    "url": "https://vwts.ru/sk_yeti_5l.html",
+    "pdf_page_url": "https://vwts.ru/sk_yeti_5l.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Amarok 2015 - 2022",
+    "model_code": "vw_amarok_2h",
+    "url": "https://vwts.ru/vw_amarok_2h.html",
+    "pdf_page_url": "https://vwts.ru/vw_amarok_2h.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Amarok 2023 -",
+    "model_code": "vw_amarok_2023",
+    "url": "https://vwts.ru/vw_amarok_2023.html",
+    "pdf_page_url": "https://vwts.ru/vw_amarok_2023.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Arteon",
+    "model_code": "vw_arteon_3h",
+    "url": "https://vwts.ru/vw_arteon_3h.html",
+    "pdf_page_url": "https://vwts.ru/vw_arteon_3h.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Corrado",
+    "model_code": "vw_corrado_53i",
+    "url": "https://vwts.ru/vw_corrado_53i.html",
+    "pdf_page_url": "https://vwts.ru/vw_corrado_53i.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Crafter 2 2017 -",
+    "model_code": "vw_crafter_sy",
+    "url": "https://vwts.ru/vw_crafter_sy.html",
+    "pdf_page_url": "https://vwts.ru/vw_crafter_sy.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Crafter 2006 - 2016",
+    "model_code": "vw_crafter_2f",
+    "url": "https://vwts.ru/vw_crafter_2f.html",
+    "pdf_page_url": "https://vwts.ru/vw_crafter_2f.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Eos",
+    "model_code": "vw_eos_1f",
+    "url": "https://vwts.ru/vw_eos_1f.html",
+    "pdf_page_url": "https://vwts.ru/vw_eos_1f.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Fox",
+    "model_code": "vw_fox_5z",
+    "url": "vw_fox_5z.html",
+    "pdf_page_url": "vw_fox_5z.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Gol / Pointer",
+    "model_code": "vw_gol_9x_5x_5w",
+    "url": "https://vwts.ru/vw_gol_9x_5x_5w.html",
+    "pdf_page_url": "https://vwts.ru/vw_gol_9x_5x_5w.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen LT",
+    "model_code": "vw_lt_2d",
+    "url": "https://vwts.ru/vw_lt_2d.html",
+    "pdf_page_url": "https://vwts.ru/vw_lt_2d.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Lupo",
+    "model_code": "vw_lupo_6x_6e",
+    "url": "https://vwts.ru/vw_lupo_6x_6e.html",
+    "pdf_page_url": "https://vwts.ru/vw_lupo_6x_6e.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Phaeton",
+    "model_code": "vw_phaeton_3d",
+    "url": "https://vwts.ru/vw_phaeton_3d.html",
+    "pdf_page_url": "https://vwts.ru/vw_phaeton_3d.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen T-Cross",
+    "model_code": "vw_t-cross_c1",
+    "url": "https://vwts.ru/vw_t-cross_c1.html",
+    "pdf_page_url": "https://vwts.ru/vw_t-cross_c1.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen T-Roc",
+    "model_code": "vw_t-roc_a1",
+    "url": "https://vwts.ru/vw_t-roc_a1.html",
+    "pdf_page_url": "https://vwts.ru/vw_t-roc_a1.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Taos",
+    "model_code": "vw_taos",
+    "url": "https://vwts.ru/vw_taos.html",
+    "pdf_page_url": "https://vwts.ru/vw_taos.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Teramont / Atlas",
+    "model_code": "vw_teramont_0a",
+    "url": "https://vwts.ru/vw_teramont_0a.html",
+    "pdf_page_url": "https://vwts.ru/vw_teramont_0a.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Volkswagen Up!",
+    "model_code": "vw_up_1s",
+    "url": "https://vwts.ru/vw_up_1s.html",
+    "pdf_page_url": "https://vwts.ru/vw_up_1s.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Beetle (Type 1) 1938 - 2003",
+    "model_code": "vw_beetle",
+    "url": "https://vwts.ru/vw_beetle.html",
+    "pdf_page_url": "https://vwts.ru/vw_beetle.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Beetle 2012 -",
+    "model_code": "vw_beetle_5c",
+    "url": "https://vwts.ru/vw_beetle_5c.html",
+    "pdf_page_url": "https://vwts.ru/vw_beetle_5c.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Caddy 1 1992 - 1994",
+    "model_code": "vw_caddy_14",
+    "url": "https://vwts.ru/vw_caddy_14.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_14.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Caddy 2 1995 - 2003",
+    "model_code": "vw_caddy_9k",
+    "url": "https://vwts.ru/vw_caddy_9k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_9k.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Caddy 3 2004 - 2010",
+    "model_code": "vw_caddy_2k",
+    "url": "https://vwts.ru/vw_caddy_2k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_2k.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Caddy 3 2011 - 2015",
+    "model_code": "vw_caddy3_2c",
+    "url": "https://vwts.ru/vw_caddy3_2c.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy3_2c.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Caddy 4 2016 - 2020",
+    "model_code": "vw_caddy4_3k",
+    "url": "https://vwts.ru/vw_caddy4_3k.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy4_3k.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Caddy 5 2021 -",
+    "model_code": "vw_caddy_5",
+    "url": "https://vwts.ru/vw_caddy_5.html",
+    "pdf_page_url": "https://vwts.ru/vw_caddy_5.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf 1, Jetta 1 1974 - 1984",
+    "model_code": "vw_golf1_17",
+    "url": "https://vwts.ru/vw_golf1_17.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf1_17.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf 2, Jetta 2 1984 - 1992",
+    "model_code": "vw_golf2_19e",
+    "url": "https://vwts.ru/vw_golf2_19e.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf2_19e.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf 3, Vento 1992 - 1998",
+    "model_code": "vw_golf3_1h",
+    "url": "https://vwts.ru/vw_golf3_1h.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf3_1h.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf 4, Bora 1997 - 2004",
+    "model_code": "vw_golf4_1j",
+    "url": "https://vwts.ru/vw_golf4_1j.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf4_1j.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf 5, Jetta 5 2004 - 2009",
+    "model_code": "vw_golf5_1k",
+    "url": "https://vwts.ru/vw_golf5_1k.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf5_1k.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf 6, Jetta 6 2009 - 2018",
+    "model_code": "vw_golf6_5k",
+    "url": "https://vwts.ru/vw_golf6_5k.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf6_5k.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf 7 2013 - 2019",
+    "model_code": "vw_golf7_5g",
+    "url": "https://vwts.ru/vw_golf7_5g.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf7_5g.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf 8 2020 -",
+    "model_code": "vw_golf8_cd",
+    "url": "https://vwts.ru/vw_golf8_cd.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf8_cd.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Golf Sportsvan 2014 -",
+    "model_code": "vw_golf_sportsvan_am",
+    "url": "https://vwts.ru/vw_golf_sportsvan_am.html",
+    "pdf_page_url": "https://vwts.ru/vw_golf_sportsvan_am.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW ID.3 2020 -",
+    "model_code": "vw_id3_e11",
+    "url": "https://vwts.ru/vw_id3_e11.html",
+    "pdf_page_url": "https://vwts.ru/vw_id3_e11.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW ID.4 / ID.5 2021 -",
+    "model_code": "vw_id4_id5",
+    "url": "https://vwts.ru/vw_id4_id5.html",
+    "pdf_page_url": "https://vwts.ru/vw_id4_id5.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW ID.7 2024 -",
+    "model_code": "vw_id7",
+    "url": "https://vwts.ru/vw_id7.html",
+    "pdf_page_url": "https://vwts.ru/vw_id7.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Jetta 7 2019 -",
+    "model_code": "vw_jetta_7",
+    "url": "https://vwts.ru/vw_jetta_7.html",
+    "pdf_page_url": "https://vwts.ru/vw_jetta_7.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW New Beetle 1998 - 2011",
+    "model_code": "vw_newbeetle_1c_1y_9c",
+    "url": "https://vwts.ru/vw_newbeetle_1c_1y_9c.html",
+    "pdf_page_url": "https://vwts.ru/vw_newbeetle_1c_1y_9c.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B2 1982 - 1988",
+    "model_code": "vw_passat2_32b",
+    "url": "https://vwts.ru/vw_passat2_32b.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat2_32b.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B3 1988 - 1994",
+    "model_code": "vw_passat3_35i",
+    "url": "https://vwts.ru/vw_passat3_35i.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat3_35i.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B4 1994 - 1997",
+    "model_code": "vw_passat4_35i",
+    "url": "https://vwts.ru/vw_passat4_35i.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat4_35i.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B5 1997 - 2001",
+    "model_code": "vw_passat5_3b",
+    "url": "https://vwts.ru/vw_passat5_3b.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat5_3b.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B5 GP 2001 - 2005",
+    "model_code": "vw_passat5_5_3bg",
+    "url": "https://vwts.ru/vw_passat5_5_3bg.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat5_5_3bg.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B6 2006 - 2010",
+    "model_code": "vw_passat6_3c",
+    "url": "https://vwts.ru/vw_passat6_3c.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat6_3c.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B7 2011 - 2015",
+    "model_code": "vw_passat7_362",
+    "url": "https://vwts.ru/vw_passat7_362.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat7_362.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B8 2015 - 2023",
+    "model_code": "vw_passat8_3g",
+    "url": "https://vwts.ru/vw_passat8_3g.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat8_3g.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Passat B9 2024 -",
+    "model_code": "vw_passat9",
+    "url": "https://vwts.ru/vw_passat9.html",
+    "pdf_page_url": "https://vwts.ru/vw_passat9.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Polo 1 1975 - 1981",
+    "model_code": "vw_polo1_86",
+    "url": "https://vwts.ru/vw_polo1_86.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo1_86.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Polo 2 1982 - 1994",
+    "model_code": "vw_polo2_80",
+    "url": "https://vwts.ru/vw_polo2_80.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo2_80.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Polo 3 1995 - 2001",
+    "model_code": "vw_polo3_6n_6kv",
+    "url": "https://vwts.ru/vw_polo3_6n_6kv.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo3_6n_6kv.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Polo 4 2002 - 2009",
+    "model_code": "vw_polo4_9n",
+    "url": "https://vwts.ru/vw_polo4_9n.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo4_9n.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Polo 5 2010 - 2017",
+    "model_code": "vw_polo5_6r",
+    "url": "https://vwts.ru/vw_polo5_6r.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo5_6r.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Polo 6 2018 -",
+    "model_code": "vw_polo6_aw",
+    "url": "https://vwts.ru/vw_polo6_aw.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo6_aw.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Polo Sedan 2011 -",
+    "model_code": "vw_polo_sedan_612",
+    "url": "https://vwts.ru/vw_polo_sedan_612.html",
+    "pdf_page_url": "https://vwts.ru/vw_polo_sedan_612.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Scirocco 1974 - 1981",
+    "model_code": "vw_scirocco1_53",
+    "url": "https://vwts.ru/vw_scirocco1_53.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco1_53.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Scirocco 1981 - 1992",
+    "model_code": "vw_scirocco2_53b",
+    "url": "https://vwts.ru/vw_scirocco2_53b.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco2_53b.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Scirocco 2008 - 2015",
+    "model_code": "vw_scirocco3_13",
+    "url": "https://vwts.ru/vw_scirocco3_13.html",
+    "pdf_page_url": "https://vwts.ru/vw_scirocco3_13.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Sharan 1995 - 2010",
+    "model_code": "vw_sharan_7m",
+    "url": "https://vwts.ru/vw_sharan_7m.html",
+    "pdf_page_url": "https://vwts.ru/vw_sharan_7m.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Sharan 2 2011 -",
+    "model_code": "vw_sharan_7n",
+    "url": "https://vwts.ru/vw_sharan_7n.html",
+    "pdf_page_url": "https://vwts.ru/vw_sharan_7n.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Tiguan 2 2016 - 2023",
+    "model_code": "vw_tiguan2_ad",
+    "url": "https://vwts.ru/vw_tiguan2_ad.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan2_ad.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Tiguan 2008 - 2015",
+    "model_code": "vw_tiguan_5n",
+    "url": "https://vwts.ru/vw_tiguan_5n.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan_5n.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Tiguan 3 2024 -",
+    "model_code": "vw_tiguan3",
+    "url": "https://vwts.ru/vw_tiguan3.html",
+    "pdf_page_url": "https://vwts.ru/vw_tiguan3.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Touareg  2003 - 2010",
+    "model_code": "vw_touareg_7l",
+    "url": "https://vwts.ru/vw_touareg_7l.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_7l.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Touareg 2 2011 - 2017",
+    "model_code": "vw_touareg_7p",
+    "url": "https://vwts.ru/vw_touareg_7p.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_7p.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Touareg 3 2018 -",
+    "model_code": "vw_touareg_cr",
+    "url": "https://vwts.ru/vw_touareg_cr.html",
+    "pdf_page_url": "https://vwts.ru/vw_touareg_cr.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Touran 2 2016 -",
+    "model_code": "vw_touran2_5t",
+    "url": "https://vwts.ru/vw_touran2_5t.html",
+    "pdf_page_url": "https://vwts.ru/vw_touran2_5t.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Touran 2003 - 2015",
+    "model_code": "vw_touran_1t",
+    "url": "https://vwts.ru/vw_touran_1t.html",
+    "pdf_page_url": "https://vwts.ru/vw_touran_1t.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Transporter T3 1980 - 1992",
+    "model_code": "vw_t3_25",
+    "url": "https://vwts.ru/vw_t3_25.html",
+    "pdf_page_url": "https://vwts.ru/vw_t3_25.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Transporter T4 1991 - 2003",
+    "model_code": "vw_t4_7d",
+    "url": "https://vwts.ru/vw_t4_7d.html",
+    "pdf_page_url": "https://vwts.ru/vw_t4_7d.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Transporter T5 2003 - 2015",
+    "model_code": "vw_t5_7h",
+    "url": "https://vwts.ru/vw_t5_7h.html",
+    "pdf_page_url": "https://vwts.ru/vw_t5_7h.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Transporter T6 2015 -",
+    "model_code": "vw_t6_sg",
+    "url": "https://vwts.ru/vw_t6_sg.html",
+    "pdf_page_url": "https://vwts.ru/vw_t6_sg.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Type 2 (T1) 1950 - 1967",
+    "model_code": "vw_t1_14",
+    "url": "https://vwts.ru/vw_t1_14.html",
+    "pdf_page_url": "https://vwts.ru/vw_t1_14.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "VW Type 2 (T2) 1968 - 1979",
+    "model_code": "vw_t2_22",
+    "url": "https://vwts.ru/vw_t2_22.html",
+    "pdf_page_url": "https://vwts.ru/vw_t2_22.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Без платформ",
+    "model_code": "pl_other",
+    "url": "https://vwts.ru/pl_other.html",
+    "pdf_page_url": "https://vwts.ru/pl_other.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Выхлопная система",
+    "model_code": "all_exhaust",
+    "url": "https://vwts.ru/all_exhaust.html",
+    "pdf_page_url": "https://vwts.ru/all_exhaust.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Двигатели",
+    "model_code": "dvigateli-vw-audi",
+    "url": "https://vwts.ru/dvigateli-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/dvigateli-vw-audi.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Диагностика",
+    "model_code": "diag",
+    "url": "https://vwts.ru/diag.html",
+    "pdf_page_url": "https://vwts.ru/diag.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Диагностика VAG",
+    "model_code": "diagnostika-vw-audi-skoda",
+    "url": "https://vwts.ru/diagnostika-vw-audi-skoda.html",
+    "pdf_page_url": "https://vwts.ru/diagnostika-vw-audi-skoda.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Запчасти, сервисы, разборки",
+    "model_code": "page13",
+    "url": "https://vwts.ru/page13.html",
+    "pdf_page_url": "https://vwts.ru/page13.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "История и модели VW",
+    "model_code": "vw-history-and-models",
+    "url": "https://vwts.ru/vw-history-and-models.html",
+    "pdf_page_url": "https://vwts.ru/vw-history-and-models.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Как здесь найти нужную информацию?",
+    "model_code": "how_work",
+    "url": "https://vwts.ru/how_work.html",
+    "pdf_page_url": "https://vwts.ru/how_work.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Клубная карта, скидки",
+    "model_code": "discount",
+    "url": "https://vwts.ru/discount.html",
+    "pdf_page_url": "https://vwts.ru/discount.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Коробки передач",
+    "model_code": "transmission-vw-audi",
+    "url": "https://vwts.ru/transmission-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/transmission-vw-audi.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Кузов",
+    "model_code": "all_body",
+    "url": "https://vwts.ru/all_body.html",
+    "pdf_page_url": "https://vwts.ru/all_body.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Подвеска",
+    "model_code": "all_suspension",
+    "url": "https://vwts.ru/all_suspension.html",
+    "pdf_page_url": "https://vwts.ru/all_suspension.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Покупка Volkswagen",
+    "model_code": "page12",
+    "url": "https://vwts.ru/page12.html",
+    "pdf_page_url": "https://vwts.ru/page12.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Полезные ссылки",
+    "model_code": "page15",
+    "url": "https://vwts.ru/page15.html",
+    "pdf_page_url": "https://vwts.ru/page15.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Расшифровка заводской комплектации автомобиля (англ.)",
+    "model_code": "complect",
+    "url": "https://vwts.ru/complect.html",
+    "pdf_page_url": "https://vwts.ru/complect.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Рулевое управление",
+    "model_code": "all_steering",
+    "url": "https://vwts.ru/all_steering.html",
+    "pdf_page_url": "https://vwts.ru/all_steering.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Сервисное обслуживание",
+    "model_code": "page11",
+    "url": "https://vwts.ru/page11.html",
+    "pdf_page_url": "https://vwts.ru/page11.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Система охлаждения",
+    "model_code": "all_cooling",
+    "url": "https://vwts.ru/all_cooling.html",
+    "pdf_page_url": "https://vwts.ru/all_cooling.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Системы впрыска",
+    "model_code": "injector-vw-audi",
+    "url": "https://vwts.ru/injector-vw-audi.html",
+    "pdf_page_url": "https://vwts.ru/injector-vw-audi.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Системы зажигания",
+    "model_code": "all_ignition",
+    "url": "https://vwts.ru/all_ignition.html",
+    "pdf_page_url": "https://vwts.ru/all_ignition.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Топливная система",
+    "model_code": "fuel_system",
+    "url": "https://vwts.ru/fuel_system.html",
+    "pdf_page_url": "https://vwts.ru/fuel_system.html"
+  },
+  {
+    "brand": "VW",
+    "brand_key": "volkswagen",
+    "model_name": "Тормозная система",
+    "model_code": "all_brake",
+    "url": "https://vwts.ru/all_brake.html",
+    "pdf_page_url": "https://vwts.ru/all_brake.html"
+  }
+]

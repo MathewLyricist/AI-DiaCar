@@ -83,7 +83,6 @@
   margin: 4px 0;
 }
 
-/* Адаптивность - ЗАКРЫТО ПРАВИЛЬНО */
 @media (max-width: 992px) {
   .navbar-toggle {
     display: block;

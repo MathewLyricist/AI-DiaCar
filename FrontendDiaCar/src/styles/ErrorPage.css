@@ -1,0 +1,125 @@
+.error-page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+}
+
+.error-content {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  width: 100%;
+}
+
+.error-code {
+  font-size: 80px;
+  font-weight: bold;
+  color: #dc3545;
+  margin-bottom: 10px;
+  line-height: 1;
+}
+
+.error-title {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.error-description {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 30px;
+  line-height: 1.6;
+}
+
+.error-details {
+  text-align: left;
+  background: #f1f1f1;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  font-size: 12px;
+  color: #555;
+  cursor: pointer;
+}
+
+.error-details summary {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.error-details pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin: 0;
+}
+
+.error-actions {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn-error-reload,
+.btn-error-home,
+.btn-error-login {
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-error-reload {
+  background-color: #6c757d;
+  color: white;
+}
+
+.btn-error-reload:hover {
+  background-color: #5a6268;
+}
+
+.btn-error-home {
+  background-color: #007bff;
+  color: white;
+}
+
+.btn-error-home:hover {
+  background-color: #0056b3;
+}
+
+.btn-error-login {
+  background-color: #28a745;
+  color: white;
+}
+
+.btn-error-login:hover {
+  background-color: #218838;
+}
+
+@media (max-width: 500px) {
+  .error-code {
+    font-size: 60px;
+  }
+  
+  .error-actions {
+    flex-direction: column;
+  }
+  
+  .btn-error-reload,
+  .btn-error-home,
+  .btn-error-login {
+    width: 100%;
+  }
+}

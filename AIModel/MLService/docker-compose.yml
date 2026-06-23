@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  ml-service:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ../AIModel/DataPDF:/app/manuals:ro
+    environment:
+      - MANUALS_PATH=/app/manuals
+      - VECTORSTORE_PATH=/app/data/vectorstore
+      - IMAGES_PATH=/app/data/images
+      - BACKEND_URL=http://host.docker.internal:8080
+    restart: unless-stopped
+    networks:
+      - aidia-network
+
+networks:
+  aidia-network:
+    external: true

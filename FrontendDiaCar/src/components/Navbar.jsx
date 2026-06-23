@@ -26,7 +26,7 @@ function Navbar() {
         
         <div className="navbar-menu">
           <ul className="navbar-nav navbar-left">
-            <li><Link to="/">Новости</Link></li>
+            <li><Link to="/news">Новости</Link></li>
             <li><Link to="/advice">Советы</Link></li>
             <li><Link to="/feedback">Обратная связь</Link></li>
           </ul>

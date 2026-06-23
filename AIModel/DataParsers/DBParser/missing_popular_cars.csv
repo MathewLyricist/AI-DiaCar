@@ -1,0 +1,1317 @@
+brand,model,year,engine_type,capacity,transmission,equipment,generation,priority,manual_path,has_manual,notes
+Toyota,Camry,2006,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV40,Medium,,FALSE,Популярная модель в РФ
+Toyota,Camry,2007,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV40,Medium,,FALSE,Популярная модель в РФ
+Toyota,Camry,2008,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV40,Medium,,FALSE,Популярная модель в РФ
+Toyota,Camry,2009,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV40,Medium,,FALSE,Популярная модель в РФ
+Toyota,Camry,2010,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV40,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2011,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV40,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2012,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV50,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2013,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV50,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2014,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV50,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2015,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV50,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2016,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV50,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2017,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV50,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2018,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV70,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2019,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV70,High,,FALSE,Популярная модель в РФ
+Toyota,Camry,2020,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",XV70,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2007,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E140/E150,Medium,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2008,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E140/E150,Medium,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2009,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E140/E150,Medium,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2010,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E140/E150,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2011,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E140/E150,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2012,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E140/E150,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2013,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E140/E150,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2014,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E170,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2015,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E170,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2016,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E170,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2017,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E170,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2018,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E170,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2019,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",E170,High,,FALSE,Популярная модель в РФ
+Toyota,Corolla,2020,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2006,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2007,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2008,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2009,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2010,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2011,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2012,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2013,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2014,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2015,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2016,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2017,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2018,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2019,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,RAV4,2020,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2003,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2004,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2005,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2006,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2007,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2008,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2009,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2010,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2011,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2012,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2013,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2014,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2015,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2016,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2017,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2018,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2019,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Land Cruiser Prado,2020,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2008,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2009,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2010,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2011,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2012,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2013,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2014,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2015,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2016,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2017,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2018,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2019,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Highlander,2020,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Prius,2004,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Toyota,Prius,2005,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Prius,2006,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Prius,2007,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Prius,2008,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Prius,2009,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Toyota,Prius,2010,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Prius,2011,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Prius,2012,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Prius,2013,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Prius,2014,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Prius,2015,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Toyota,Prius,2016,"1JZ-GE, 1JZ-GTE, 2JZ-GE","1.6, 1.8, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Lexus,RX,2003,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Lexus,RX,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Lexus,RX,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,RX,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,ES,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,IS,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,GS,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,NX,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,NX,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,NX,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,NX,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,NX,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,NX,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Lexus,NX,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,3 Series,2005,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E90/E91,Medium,,FALSE,Популярная модель в РФ
+BMW,3 Series,2006,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E90/E91,Medium,,FALSE,Популярная модель в РФ
+BMW,3 Series,2007,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E90/E91,Medium,,FALSE,Популярная модель в РФ
+BMW,3 Series,2008,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E90/E91,Medium,,FALSE,Популярная модель в РФ
+BMW,3 Series,2009,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E90/E91,Medium,,FALSE,Популярная модель в РФ
+BMW,3 Series,2010,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E90/E91,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2011,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E90/E91,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2012,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F30/F31,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2013,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F30/F31,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2014,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F30/F31,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2015,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F30/F31,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2016,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F30/F31,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2017,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F30/F31,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2018,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F30/F31,High,,FALSE,Популярная модель в РФ
+BMW,3 Series,2019,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2003,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E60/E61,Low,,FALSE,Популярная модель в РФ
+BMW,5 Series,2004,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E60/E61,Low,,FALSE,Популярная модель в РФ
+BMW,5 Series,2005,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E60/E61,Medium,,FALSE,Популярная модель в РФ
+BMW,5 Series,2006,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E60/E61,Medium,,FALSE,Популярная модель в РФ
+BMW,5 Series,2007,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E60/E61,Medium,,FALSE,Популярная модель в РФ
+BMW,5 Series,2008,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E60/E61,Medium,,FALSE,Популярная модель в РФ
+BMW,5 Series,2009,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",E60/E61,Medium,,FALSE,Популярная модель в РФ
+BMW,5 Series,2010,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F10/F11,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2011,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F10/F11,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2012,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F10/F11,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2013,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F10/F11,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2014,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F10/F11,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2015,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F10/F11,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2016,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",F10/F11,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2017,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,5 Series,2018,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2003,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+BMW,X5,2004,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+BMW,X5,2005,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X5,2006,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X5,2007,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X5,2008,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X5,2009,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X5,2010,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2011,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2012,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2013,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2014,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2015,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2016,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2017,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X5,2018,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2003,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+BMW,X3,2004,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+BMW,X3,2005,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X3,2006,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X3,2007,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X3,2008,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X3,2009,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X3,2010,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2011,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2012,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2013,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2014,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2015,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2016,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2017,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X3,2018,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2008,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X6,2009,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+BMW,X6,2010,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2011,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2012,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2013,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2014,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2015,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2016,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2017,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2018,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+BMW,X6,2019,"N52B25, N52B30, N54B30","1.6, 2.0, 2.5, 3.0, 4.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2007,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2008,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2009,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2010,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2011,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2012,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2013,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2014,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2015,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2016,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2017,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2018,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2019,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,C-Class,2020,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2002,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2003,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2004,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2005,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2006,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2007,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2008,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2009,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2010,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2011,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2012,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2013,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2014,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2015,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,E-Class,2016,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2005,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2006,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2007,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2008,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2009,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2010,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2011,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2012,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2013,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2014,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2015,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2016,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2017,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,S-Class,2018,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLC,2015,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLC,2016,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLC,2017,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLC,2018,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLC,2019,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLC,2020,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLE,2015,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLE,2016,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLE,2017,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLE,2018,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLE,2019,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Mercedes-Benz,GLE,2020,"M271, M272, M273","1.6, 1.8, 2.0, 2.5, 3.0, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Audi,A4,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A4,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Audi,A6,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A6,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q5,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,Q7,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2003,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Audi,A3,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Audi,A3,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Audi,A3,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2010,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2019,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Solaris,2020,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Creta,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Creta,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Creta,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Creta,2019,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Creta,2020,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Creta,2021,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2010,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2019,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Tucson,2020,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2006,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2007,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2008,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2009,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2010,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Santa Fe,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2010,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2019,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Hyundai,Sonata,2020,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2019,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Rio,2020,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2010,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2019,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sportage,2020,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2009,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Kia,Sorento,2010,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2019,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Sorento,2020,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2019,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Optima,2020,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2007,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Kia,Ceed,2008,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Kia,Ceed,2009,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Kia,Ceed,2010,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2011,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2012,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2013,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2014,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2015,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2016,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2017,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Kia,Ceed,2018,"G4FA, G4FC, G4KD","1.4, 1.6, 2.0, 2.4","Manual, Automatic","Standard, Comfort, Luxe",Unknown,High,,FALSE,Популярная модель в РФ
+Ford,Focus,2008,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2009,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2010,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2011,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2012,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2013,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2014,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2015,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2016,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2017,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2018,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Focus,2019,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2007,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2008,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2009,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2010,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2011,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2012,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2013,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2014,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2015,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2016,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2017,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Mondeo,2018,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2008,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2009,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2010,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2011,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2012,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2013,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2014,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2015,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2016,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2017,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2018,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Kuga,2019,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2011,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2012,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2013,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2014,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2015,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2016,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2017,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2018,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2019,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Explorer,2020,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2010,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2011,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2012,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2013,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2014,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2015,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2016,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2017,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2018,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Ford,Fusion,2019,"Duratec, EcoBoost 1.6, EcoBoost 2.0","1.6, 1.8, 2.0, 2.3, 2.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2007,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2008,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2009,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2010,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2011,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2012,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2013,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2014,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2015,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2016,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2017,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2018,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2019,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Qashqai,2020,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2007,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2008,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2009,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2010,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2011,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2012,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2013,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2014,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2015,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2016,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2017,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2018,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2019,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,X-Trail,2020,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2010,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2011,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2012,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2013,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2014,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2015,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2016,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2017,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2018,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2019,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Patrol,2020,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2006,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2007,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2008,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2009,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2010,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2011,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2012,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2013,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2014,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2015,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2016,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Note,2017,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2003,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Nissan,Murano,2004,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Nissan,Murano,2005,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2006,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2007,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2008,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2009,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2010,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2011,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2012,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2013,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2014,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Nissan,Murano,2015,"HR16DE, MR20DE, QR20DE","1.6, 2.0, 2.5, 3.5","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2012,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2013,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2014,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2015,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2016,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2017,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2018,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2019,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-5,2020,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2003,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2004,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2005,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2006,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2007,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2008,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2009,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2010,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2011,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2012,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2013,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2014,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2015,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2016,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2017,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda3,2018,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2002,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2003,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2004,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2005,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2006,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2007,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2008,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2009,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2010,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2011,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2012,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2013,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2014,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2015,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2016,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,Mazda6,2017,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-7,2006,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-7,2007,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-7,2008,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-7,2009,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-7,2010,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-7,2011,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-7,2012,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2007,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2008,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2009,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2010,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2011,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2012,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2013,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2014,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2015,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mazda,CX-9,2016,"L3-VE, L5-VE, PE-VPS",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2006,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2007,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2008,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2009,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2010,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2011,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2012,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2013,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2014,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2015,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2016,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2017,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2018,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2019,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Outlander,2020,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2006,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2007,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2008,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2009,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2010,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2011,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2012,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2013,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2014,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2015,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2016,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2017,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2018,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero,2019,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2003,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2004,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2005,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2006,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2007,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2008,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2009,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2010,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2011,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2012,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2013,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2014,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2015,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2016,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Lancer,2017,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2010,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2011,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2012,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2013,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2014,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2015,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2016,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2017,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2018,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2019,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,ASX,2020,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2008,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2009,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2010,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2011,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2012,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2013,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2014,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2015,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2016,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2017,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2018,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2019,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Mitsubishi,Pajero Sport,2020,"4G63, 4G64, 4B11",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2006,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2007,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2008,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2009,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2010,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2011,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2013,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2014,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2015,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2016,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2017,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Civic,2018,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2003,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,Accord,2004,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,Accord,2005,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2006,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2007,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2008,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2009,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2010,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2012,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2014,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Accord,2015,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2002,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,CR-V,2003,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,CR-V,2004,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,CR-V,2005,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2006,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2007,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2008,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2009,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2011,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2012,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2014,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2015,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2016,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2017,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,CR-V,2018,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2003,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,Pilot,2004,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,Pilot,2005,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2006,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2007,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2008,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2009,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2010,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2011,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2012,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2013,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2014,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2015,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Pilot,2016,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2002,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,Fit,2003,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,Fit,2004,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Honda,Fit,2005,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2006,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2007,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2008,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2009,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2010,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2011,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2012,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2013,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Honda,Fit,2014,"R18A, R20A, K20A",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2003,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Subaru,Forester,2004,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Subaru,Forester,2005,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2006,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2007,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2008,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2009,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2010,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2011,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2012,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2013,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2014,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2015,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2016,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2017,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Forester,2018,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2003,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Subaru,Outback,2004,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Subaru,Outback,2005,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2006,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2007,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2008,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2009,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2010,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2011,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2012,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2013,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2014,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2015,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2016,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2017,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Outback,2018,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2003,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2004,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2005,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2006,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2007,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2008,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2009,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2010,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2011,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2012,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2013,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2014,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2015,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Impreza,2016,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2012,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2013,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2014,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2015,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2016,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2017,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2018,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2019,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,XV,2020,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2003,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2004,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2005,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2006,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2007,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2008,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2009,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2010,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2011,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2012,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2013,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Subaru,Legacy,2014,"EJ20, EJ25, FB20",Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Grand Vitara,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Swift,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,SX4,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,1998,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,1999,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2000,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2001,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2002,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2003,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Jimny,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Vitara,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Vitara,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Vitara,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Vitara,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Vitara,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Suzuki,Vitara,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Logan,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Duster,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Kaptur,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Kaptur,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Kaptur,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Kaptur,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Kaptur,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Kaptur,2021,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2003,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Renault,Megane,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Renault,Megane,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Megane,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Renault,Sandero,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,308,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,3008,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,408,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,508,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,2008,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,2008,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,2008,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,2008,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,2008,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,2008,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,2008,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Peugeot,2008,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Citroen,C4,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2001,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Citroen,C5,2002,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Citroen,C5,2003,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Citroen,C5,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Citroen,C5,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C5,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2002,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Citroen,C3,2003,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Citroen,C3,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Citroen,C3,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C3,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4 Aircross,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4 Aircross,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4 Aircross,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4 Aircross,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4 Aircross,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,C4 Aircross,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Citroen,Berlingo,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Opel,Astra,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Astra,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Insignia,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Mokka,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Mokka,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Mokka,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Mokka,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Mokka,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Mokka,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Mokka,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Mokka,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Corsa,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Opel,Zafira,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Octavia,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2000,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2001,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2002,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2003,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2004,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2005,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2006,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2007,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2008,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Fabia,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2009,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2010,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2011,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Yeti,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2012,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2013,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2014,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2015,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2016,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Rapid,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Kodiaq,2017,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Kodiaq,2018,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Kodiaq,2019,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Kodiaq,2020,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+Skoda,Kodiaq,2021,Unknown,Unknown,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2007,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2008,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2009,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2010,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2011,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2012,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2013,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2014,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2015,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2016,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2017,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Priora,2018,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2004,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2005,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2006,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2007,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2008,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2009,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2010,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2011,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2012,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2013,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2014,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2015,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2016,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2017,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Kalina,2018,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2011,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2012,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2013,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2014,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2015,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2016,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2017,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2018,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2019,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Granta,2020,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Vesta,2015,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Vesta,2016,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Vesta,2017,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Vesta,2018,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Vesta,2019,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Vesta,2020,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Vesta,2021,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2000,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2001,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2002,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2003,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2004,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2005,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2006,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2007,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2008,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2009,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2010,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2011,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2012,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2013,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2014,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2015,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2016,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2017,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2018,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2019,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Niva,2020,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2012,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2013,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2014,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2015,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2016,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2017,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2018,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2019,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ВАЗ,Largus,2020,"21114, 21116, 21126",1.6,"Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2003,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2004,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2005,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2006,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2007,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2008,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2009,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2010,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2011,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2012,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2013,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2014,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2015,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2016,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2017,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2018,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2019,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель,2020,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель NEXT,2013,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель NEXT,2014,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель NEXT,2015,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель NEXT,2016,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель NEXT,2017,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель NEXT,2018,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель NEXT,2019,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Газель NEXT,2020,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2008,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2009,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2010,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2011,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2012,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2013,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2014,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2015,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2016,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2017,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2018,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2019,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Соболь,2020,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,1997,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,1998,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,1999,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2000,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2001,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2002,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2003,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2004,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Low,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2005,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2006,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2007,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2008,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2009,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ
+ГАЗ,Волга,2010,Unknown,"2.8, 2.9","Manual, Automatic","Standard, Comfort, Luxe",Unknown,Medium,,FALSE,Популярная модель в РФ

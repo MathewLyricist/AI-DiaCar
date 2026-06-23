@@ -1,4 +1,3 @@
-/* Страница аккаунта на ВЕСЬ экран */
 .account-page {
   background-image: url('/images/image-header.png');
   background-position: center center;
@@ -75,7 +74,6 @@
   flex: 1;
 }
 
-/* Аватар с картинкой */
 .account-avatar-wrapper {
   display: flex;
   align-items: center;
@@ -137,7 +135,6 @@
   box-shadow: 0 4px 12px rgba(33, 150, 243, 0.3);
 }
 
-/* Список автомобилей */
 .car-list {
   margin-top: 30px;
 }
@@ -204,7 +201,6 @@
   transform: translateY(-1px);
 }
 
-/* Диагностические карты - ССЫЛКИ */
 .diagnostics-section {
   background-color: rgba(255, 255, 255, 0.95);
   border-radius: 20px;
@@ -224,7 +220,6 @@
   border-radius: 10px;
 }
 
-/* Ссылка-карточка */
 .diag-link {
   display: flex;
   justify-content: space-between;
@@ -278,7 +273,6 @@
   opacity: 1;
 }
 
-/* Нижний текст */
 .footer-text {
   text-align: center;
   color: #ffffff;
@@ -288,7 +282,6 @@
   font-weight: 500;
 }
 
-/* Адаптивность */
 @media (max-width: 768px) {
   .account-card {
     padding: 25px;

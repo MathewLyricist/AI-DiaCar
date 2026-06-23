@@ -1,4 +1,3 @@
-/* Фоновое изображение на всю страницу */
 body {
   background-image: url('/images/image-header.png');
   background-position: center center;
@@ -9,7 +8,6 @@ body {
   min-height: 100vh;
 }
 
-/* Шапка поверх фона */
 .image-header {
   background-color: rgba(0, 0, 0, 0.4);
   padding: 40px 0 40px;
@@ -24,7 +22,6 @@ body {
   margin: 0;
 }
 
-/* Контейнер */
 .container {
   width: 100%;
   max-width: 100%;
@@ -32,7 +29,6 @@ body {
   margin: 0 auto;
 }
 
-/* Форма авторизации - полупрозрачная */
 .auth-form {
   background-color: rgba(255, 255, 255, 0.9);
   padding: 40px;
@@ -74,21 +70,29 @@ body {
 }
 
 .auth-form .checkbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   margin-top: 20px;
   margin-bottom: 25px;
 }
 
 .auth-form .checkbox label {
-  color: #333;
-  font-weight: 400;
+  display: flex;
+  align-items: center;
+  gap: 8px;
   cursor: pointer;
+  margin: 0;
+  font-weight: 400;
+  color: #333;
 }
 
 .auth-form .checkbox input[type="checkbox"] {
-  margin-right: 8px;
+  width: auto;
+  margin: 0;
+  vertical-align: middle;
 }
 
-/* Кнопка - отцентрована */
 .auth-form .btn-block {
   width: 100%;
   max-width: 300px;
@@ -116,7 +120,6 @@ body {
   transform: translateY(0);
 }
 
-/* Ссылки под формой - отцентрованы */
 .auth-links {
   margin-top: 25px;
   text-align: center;
@@ -136,7 +139,6 @@ body {
   text-decoration: underline;
 }
 
-/* Нижний текст - КРАСИВЫЙ БЕЗ ФОНА */
 .bottom-text {
   margin: 60px auto 40px;
   color: #ffffff;
@@ -151,7 +153,6 @@ body {
   max-width: 600px;
 }
 
-/* Адаптивность для мобильных */
 @media (max-width: 768px) {
   body {
     background-attachment: scroll;
