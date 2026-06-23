@@ -56,5 +56,5 @@ ML-service - отдельный микросервис на Python/FastAPI, вы
 # Лицензия
 Проект распространяется под лицензией MIT. Подробнее см. файл LICENSE.
 # Контакты
-GitHub: https://github.com/MathewLyricist
-Telegram: @MathewChao
+- **GitHub**: https://github.com/MathewLyricist
+- **Telegram**: @MathewChao
