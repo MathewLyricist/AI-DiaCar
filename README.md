@@ -25,7 +25,7 @@ AI-DiaCar — это дипломный проект, представляющи
 
 - 🛠 Администрирование справочников, обратной связи и дообучение модели (в перспективе).
 # Демонстрация работы веб-приложения
-![Demo](Demo/demo.webm)
+![Demo](GIFS/demo.gif)
 # Backend
 Backend - Spring Boot-приложение, реализующее бизнес-логику, управление сессиями, генерацию PDF-отчётов и взаимодействие с ML-сервисом.
 # Frontend
@@ -47,10 +47,12 @@ ML-service - отдельный микросервис на Python/FastAPI, вы
 - ML-сервис: http://localhost:8000
 # Изображения веб-приложения
 - Главная страница
+![Demo](GIFS/main.gif)
 ![Main](Images/Main.png)
 - Авторизация
 ![Auth](Images/Authorization.png)
 - Личный аккаунт
+![Demo](GIFS/account.gif)
 ![Account](Images/Account.png)
 - Выбор автомобиля
 ![Settings](Images/SeetingsSession.png)
@@ -58,10 +60,13 @@ ML-service - отдельный микросервис на Python/FastAPI, вы
 ![News](Images/News.png)
 - Советы
 ![Advices](Images/Advices.png)
+![Demo](GIFS/advicesandnews.gif)
 - Обратная связь
 ![Feedback](Images/Feedback.png)
+![Demo](GIFS/feedback.gif)
 - Диагностика
 ![Diagnosis](Images/DiagnosticSession.png)
+![Demo](GIFS/diagnosticsess.gif)
 # Пример работы веб-приложения
 - Пользователь регистрируется и входит в систему.
 - Выбирает автомобиль (марка, модель, год) из справочника.
