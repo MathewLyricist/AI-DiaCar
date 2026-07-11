@@ -45,13 +45,21 @@ ML-service - отдельный микросервис на Python/FastAPI, вы
 - ML-сервис: http://localhost:8000
 # Изображения веб-приложения
 - Главная страница
+![Main](Images/Main.png)
 - Авторизация
+![Auth](Images/Authorization.png)
 - Личный аккаунт
+![Account](Images/Account.png)
 - Выбор автомобиля
+![Settings](Images/Seetings Session.png)
 - Новости
+![News](Images/News.png)
 - Советы
+![Advices](Images/Advices.png)
 - Обратная связь
+![Feedback](Images/Feedback.png)
 - Диагностика
+![Diagnosis](Images/Diagnostic Session.png)
 # Пример работы веб-приложения
 - Пользователь регистрируется и входит в систему.
 - Выбирает автомобиль (марка, модель, год) из справочника.
