@@ -64,43 +64,57 @@ ML-service — отдельный микросервис на Python/FastAPI, в
 
 ### Главная страница
 
-![Главная страница](GIFS/main.gif)
+<p align="center">
+  <img src="GIFS/main.gif" alt="Главная страница" width="90%">
+</p>
 
 ---
 
 ### Авторизация
 
-![Авторизация](Images/Authorization.png)
+<p align="center">
+  <img src="Images/Authorization.png" alt="Авторизация" width="90%">
+</p>
 
 ---
 
 ### Личный аккаунт
 
-![Личный аккаунт](GIFS/account.gif)
+<p align="center">
+  <img src="GIFS/account.gif" alt="Личный аккаунт" width="90%">
+</p>
 
 ---
 
 ### Выбор автомобиля
 
-![Выбор автомобиля](Images/SeetingsSession.png)
+<p align="center">
+  <img src="Images/SeetingsSession.png" alt="Выбор автомобиля" width="90%">
+</p>
 
 ---
 
 ### Новости и советы
 
-![Новости и советы](GIFS/advicesandnews.gif)
+<p align="center">
+  <img src="GIFS/advicesandnews.gif" alt="Новости и советы" width="90%">
+</p>
 
 ---
 
 ### Обратная связь
 
-![Обратная связь](GIFS/feedback.gif)
+<p align="center">
+  <img src="GIFS/feedback.gif" alt="Обратная связь" width="90%">
+</p>
 
 ---
 
 ### Диагностика
 
-![Диагностика](GIFS/diagnosticsess.gif)
+<p align="center">
+  <img src="GIFS/diagnosticsess.gif" alt="Диагностика" width="90%">
+</p>
 
 ## Пример работы веб-приложения
 
