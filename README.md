@@ -51,7 +51,7 @@ ML-service - отдельный микросервис на Python/FastAPI, вы
 - Личный аккаунт
 ![Account](Images/Account.png)
 - Выбор автомобиля
-![Settings](Images/Seetings Session.png)
+![Settings](Images/SeetingsSession.png)
 - Новости
 ![News](Images/News.png)
 - Советы
@@ -59,7 +59,7 @@ ML-service - отдельный микросервис на Python/FastAPI, вы
 - Обратная связь
 ![Feedback](Images/Feedback.png)
 - Диагностика
-![Diagnosis](Images/Diagnostic Session.png)
+![Diagnosis](Images/DiagnosticSession.png)
 # Пример работы веб-приложения
 - Пользователь регистрируется и входит в систему.
 - Выбирает автомобиль (марка, модель, год) из справочника.
